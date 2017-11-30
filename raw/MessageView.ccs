@@ -74,6 +74,7 @@
             <Image Name="xingyundu2.png" />
           </Folder>
           <Folder Name="font">
+            <TTF Name="Droid Sans Fallback.ttf" />
             <TTF Name="fangzheng.ttf" />
             <TTF Name="fangzhengzy.ttf" />
             <TTF Name="msyh.ttf" />

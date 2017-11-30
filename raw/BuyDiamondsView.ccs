@@ -9,6 +9,7 @@
             <Image Name="kuang.png" />
             <Image Name="title.png" />
             <Image Name="zuan.png" />
+            <Image Name="fuzweix.png" />
           </Folder>
           <Folder Name="createroom">
             <Image Name="back.png" />
@@ -80,6 +81,7 @@
             <Image Name="xingyundu2.png" />
           </Folder>
           <Folder Name="font">
+            <TTF Name="DroidSansFallback.ttf" />
             <TTF Name="fangzheng.ttf" />
             <TTF Name="msyh.ttf" />
             <TTF Name="sc_ccbackbeatregular.ttf" />

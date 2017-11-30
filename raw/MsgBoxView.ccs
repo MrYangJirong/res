@@ -12,16 +12,9 @@
             <Image Name="panel-x.png" />
           </Folder>
           <Folder Name="msgbox">
-            <Image Name="cancel.png" />
-            <Image Name="cancel1.png" />
-            <Image Name="cancel2.png" />
-            <Image Name="image_title.png" />
-            <Image Name="message.png" />
+            <Image Name="quxiao.png" />
             <Image Name="set.png" />
-            <Image Name="sure.png" />
-            <Image Name="sureNor.png" />
-            <Image Name="surePre.png" />
-            <Image Name="title.png" />
+            <Image Name="set_btn_determine.png" />
           </Folder>
           <Folder Name="public">
             <Folder Name="button">

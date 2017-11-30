@@ -73,6 +73,7 @@
             <Image Name="text.png" />
           </Folder>
           <Folder Name="font">
+            <TTF Name="Arial.ttf" />
             <TTF Name="fangzheng.ttf" />
             <TTF Name="fzktjt.ttf" />
             <TTF Name="sc_ccbackbeatregular.ttf" />
@@ -97,6 +98,7 @@
             <Image Name="bg.png" />
           </Folder>
           <Folder Name="personalpage">
+            <Image Name="dialog.png" />
             <Image Name="dw.png" />
             <Image Name="frame.png" />
             <Image Name="id.png" />
@@ -104,11 +106,9 @@
             <Image Name="ju.png" />
             <Image Name="nan.png" />
             <Image Name="nv.png" />
+            <Image Name="pj.png" />
             <Image Name="sj.png" />
             <Image Name="xing.png" />
-            <Image Name="kuang.png" />
-            <Image Name="kuang1.png" />
-            <Image Name="ID_24_127.png" />
           </Folder>
           <Folder Name="public">
             <Folder Name="button">
@@ -140,6 +140,7 @@
               <Folder Name="icon">
                 <Image Name="1.png" />
               </Folder>
+              <Image Name="16.png" />
             </Folder>
           </Folder>
           <Project Name="PersonalPageView.csd" Type="Node" />

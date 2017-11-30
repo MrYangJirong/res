@@ -102,36 +102,23 @@
           </Folder>
           <Folder Name="setting">
             <Image Name="bar.png" />
-            <Image Name="bg.png" />
             <Image Name="ChangeAccountNor.png" />
             <Image Name="ChangeAccountPre.png" />
             <Image Name="close.png" />
             <Image Name="closeSound.png" />
             <Image Name="exit.png" />
             <Image Name="frame.png" />
-            <Image Name="gouxuan.png" />
-            <Image Name="music.png" />
             <Image Name="openSound.png" />
             <Image Name="qiehuan.png" />
             <Image Name="qizi.png" />
             <Image Name="set.png" />
+            <Image Name="set_btn_determine.png" />
             <Image Name="sfx.png" />
-            <Image Name="sure.png" />
             <Image Name="sureNor.png" />
             <Image Name="surePre.png" />
             <Image Name="text_title.png" />
+            <Image Name="text_yinyue.png" />
             <Image Name="title.png" />
-            <Image Name="yanse1.png" />
-            <Image Name="yanse2.png" />
-            <Image Name="yanse3.png" />
-            <Image Name="yanse4.png" />
-            <Image Name="zhuomian.png" />
-            <Image Name="shezhi_paibei.png" />
-            <Image Name="yanse5.png" />
-            <Image Name="yanse6.png" />
-            <Image Name="yanse7.png" />
-            <Image Name="yanse8.png" />
-            <Image Name="paibei.png" />
           </Folder>
           <Project Name="SettingView.csd" Type="Node" />
         </Folder>

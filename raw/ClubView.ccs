@@ -23,7 +23,6 @@
             <Image Name="centre_bg.png" />
             <Image Name="cjfj_an_1.png" />
             <Image Name="cjfj_an_2.png" />
-            <Image Name="close.png" />
             <Image Name="common_bg.png" />
             <Image Name="common_bg4.png" />
             <Image Name="create.png" />
@@ -66,7 +65,6 @@
             <Image Name="ride_pressed.png" />
             <Image Name="right_bg.png" />
             <Image Name="room.png" />
-            <Image Name="roomInfo.png" />
             <Image Name="select_bg.png" />
             <Image Name="Selected_bg.png" />
             <Image Name="set_bg.png" />
@@ -83,7 +81,6 @@
             <Image Name="state_wait.png" />
             <Image Name="tips.png" />
             <Image Name="title.png" />
-            <Image Name="tx.png" />
             <Image Name="unban.png" />
             <Image Name="unselected_bg.png" />
             <Image Name="white_bg.png" />
@@ -94,50 +91,113 @@
             <Image Name="white-te.png" />
           </Folder>
           <Folder Name="clubnew">
-            <Image Name="back.png" />
-            <Image Name="cancelBg.png" />
-            <Image Name="ID_23_129.png" />
-            <Image Name="ID_24_14.png" />
-            <Image Name="ID_24_171.png" />
-            <Image Name="ID_24_181.png" />
-            <Image Name="ID_24_187.png" />
-            <Image Name="ID_24_188.png" />
-            <Image Name="ID_24_203.png" />
-            <Image Name="ID_24_207.png" />
-            <Image Name="ID_24_217.png" />
-            <Image Name="ID_24_25.png" />
-            <Image Name="ID_24_267.png" />
-            <Image Name="ID_24_281.png" />
-            <Image Name="ID_24_297.png" />
-            <Image Name="ID_24_314.png" />
-            <Image Name="ID_24_315.png" />
-            <Image Name="ID_24_317.png" />
-            <Image Name="ID_24_318.png" />
-            <Image Name="ID_24_320.png" />
-            <Image Name="ID_24_321.png" />
-            <Image Name="ID_24_322.png" />
-            <Image Name="ID_24_323.png" />
-            <Image Name="ID_24_324.png" />
-            <Image Name="ID_24_359.png" />
-            <Image Name="ID_24_361.png" />
-            <Image Name="ID_24_362.png" />
-            <Image Name="ID_24_52.png" />
-            <Image Name="ID_24_53.png" />
-            <Image Name="ID_24_55.png" />
-            <Image Name="ID_24_65.png" />
-            <Image Name="ID_24_66.png" />
-            <Image Name="ID_24_72.png" />
-            <Image Name="ID_24_721.png" />
-            <Image Name="ID_24_89.png" />
-            <Image Name="ID_24_96.png" />
-            <Image Name="image_title.png" />
-            <Image Name="inputBg.png" />
-            <Image Name="jiantou.png" />
-            <Image Name="msgBg.png" />
-            <Image Name="right_bg.png" />
-            <Image Name="set.png" />
-            <Image Name="sure.png" />
-            <Image Name="title.png" />
+            <PlistImageFolder Image="Friend.png" PListFile="Friend.plist" Name=".Friend_PList.Dir">
+              <PlistImageFile Name="Friend_add_bg.png" Key="Friend_add_bg.png" />
+              <PlistImageFile Name="Friend_bigwin_linebg.png" Key="Friend_bigwin_linebg.png" />
+              <PlistImageFile Name="Friend_bigwin_text.png" Key="Friend_bigwin_text.png" />
+              <PlistImageFile Name="Friend_button_add.png" Key="Friend_button_add.png" />
+              <PlistImageFile Name="Friend_button_Add_roomCard.png" Key="Friend_button_Add_roomCard.png" />
+              <PlistImageFile Name="Friend_button_bigwin.png" Key="Friend_button_bigwin.png" />
+              <PlistImageFile Name="Friend_button_bigwin_null.png" Key="Friend_button_bigwin_null.png" />
+              <PlistImageFile Name="Friend_button_bottom_bg.png" Key="Friend_button_bottom_bg.png" />
+              <PlistImageFile Name="Friend_button_break.png" Key="Friend_button_break.png" />
+              <PlistImageFile Name="Friend_button_break1.png" Key="Friend_button_break1.png" />
+              <PlistImageFile Name="Friend_button_creat.png" Key="Friend_button_creat.png" />
+              <PlistImageFile Name="Friend_button_exit.png" Key="Friend_button_exit.png" />
+              <PlistImageFile Name="Friend_button_fenxiang.png" Key="Friend_button_fenxiang.png" />
+              <PlistImageFile Name="Friend_button_fz.png" Key="Friend_button_fz.png" />
+              <PlistImageFile Name="Friend_button_gonggao.png" Key="Friend_button_gonggao.png" />
+              <PlistImageFile Name="Friend_button_gonggao_null.png" Key="Friend_button_gonggao_null.png" />
+              <PlistImageFile Name="Friend_button_infor.png" Key="Friend_button_infor.png" />
+              <PlistImageFile Name="Friend_button_infor_null.png" Key="Friend_button_infor_null.png" />
+              <PlistImageFile Name="Friend_button_jujue.png" Key="Friend_button_jujue.png" />
+              <PlistImageFile Name="Friend_button_ksjr.png" Key="Friend_button_ksjr.png" />
+              <PlistImageFile Name="Friend_button_mineInfor.png" Key="Friend_button_mineInfor.png" />
+              <PlistImageFile Name="Friend_button_mineInfor_null.png" Key="Friend_button_mineInfor_null.png" />
+              <PlistImageFile Name="Friend_button_next.png" Key="Friend_button_next.png" />
+              <PlistImageFile Name="Friend_button_people.png" Key="Friend_button_people.png" />
+              <PlistImageFile Name="Friend_button_people_null.png" Key="Friend_button_people_null.png" />
+              <PlistImageFile Name="Friend_button_queren.png" Key="Friend_button_queren.png" />
+              <PlistImageFile Name="Friend_button_quickly.png" Key="Friend_button_quickly.png" />
+              <PlistImageFile Name="Friend_button_quickly_null.png" Key="Friend_button_quickly_null.png" />
+              <PlistImageFile Name="Friend_button_Roomcard_in.png" Key="Friend_button_Roomcard_in.png" />
+              <PlistImageFile Name="Friend_button_Roomcard_out.png" Key="Friend_button_Roomcard_out.png" />
+              <PlistImageFile Name="Friend_button_roomInfor.png" Key="Friend_button_roomInfor.png" />
+              <PlistImageFile Name="Friend_button_roomInfor_null.png" Key="Friend_button_roomInfor_null.png" />
+              <PlistImageFile Name="Friend_button_shenqing.png" Key="Friend_button_shenqing.png" />
+              <PlistImageFile Name="Friend_button_sz.png" Key="Friend_button_sz.png" />
+              <PlistImageFile Name="Friend_button_sz_null.png" Key="Friend_button_sz_null.png" />
+              <PlistImageFile Name="Friend_button_text_add.png" Key="Friend_button_text_add.png" />
+              <PlistImageFile Name="Friend_button_text_add_true.png" Key="Friend_button_text_add_true.png" />
+              <PlistImageFile Name="Friend_button_text_creat.png" Key="Friend_button_text_creat.png" />
+              <PlistImageFile Name="Friend_button_text_creat_true.png" Key="Friend_button_text_creat_true.png" />
+              <PlistImageFile Name="Friend_button_tiren.png" Key="Friend_button_tiren.png" />
+              <PlistImageFile Name="Friend_button_tiren_null.png" Key="Friend_button_tiren_null.png" />
+              <PlistImageFile Name="Friend_button_tongyi.png" Key="Friend_button_tongyi.png" />
+              <PlistImageFile Name="Friend_button_xiugai.png" Key="Friend_button_xiugai.png" />
+              <PlistImageFile Name="Friend_button_zt.png" Key="Friend_button_zt.png" />
+              <PlistImageFile Name="Friend_caidan_jiantou.png" Key="Friend_caidan_jiantou.png" />
+              <PlistImageFile Name="Friend_close.png" Key="Friend_close.png" />
+              <PlistImageFile Name="Friend_gonggao_bg.png" Key="Friend_gonggao_bg.png" />
+              <PlistImageFile Name="Friend_left_bg.png" Key="Friend_left_bg.png" />
+              <PlistImageFile Name="Friend_left_jiantou.png" Key="Friend_left_jiantou.png" />
+              <PlistImageFile Name="Friend_left_true.png" Key="Friend_left_true.png" />
+              <PlistImageFile Name="Friend_Limit.png" Key="Friend_Limit.png" />
+              <PlistImageFile Name="Friend_Limit_cancel.png" Key="Friend_Limit_cancel.png" />
+              <PlistImageFile Name="Friend_Limit_cancel_null.png" Key="Friend_Limit_cancel_null.png" />
+              <PlistImageFile Name="Friend_Limit_icon.png" Key="Friend_Limit_icon.png" />
+              <PlistImageFile Name="Friend_Limit_null.png" Key="Friend_Limit_null.png" />
+              <PlistImageFile Name="Friend_line.png" Key="Friend_line.png" />
+              <PlistImageFile Name="Friend_line_button.png" Key="Friend_line_button.png" />
+              <PlistImageFile Name="Friend_message_bg.png" Key="Friend_message_bg.png" />
+              <PlistImageFile Name="Friend_mine_infor_shuru_bg.png" Key="Friend_mine_infor_shuru_bg.png" />
+              <PlistImageFile Name="Friend_qipao_mine.png" Key="Friend_qipao_mine.png" />
+              <PlistImageFile Name="Friend_qipao_mine_jiantou.png" Key="Friend_qipao_mine_jiantou.png" />
+              <PlistImageFile Name="Friend_qipao_other.png" Key="Friend_qipao_other.png" />
+              <PlistImageFile Name="Friend_qipao_other_jiantou.png" Key="Friend_qipao_other_jiantou.png" />
+              <PlistImageFile Name="Friend_qipao_system.png" Key="Friend_qipao_system.png" />
+              <PlistImageFile Name="Friend_qipao_system_jiantou.png" Key="Friend_qipao_system_jiantou.png" />
+              <PlistImageFile Name="Friend_qunzhu.png" Key="Friend_qunzhu.png" />
+              <PlistImageFile Name="Friend_right_bg.png" Key="Friend_right_bg.png" />
+              <PlistImageFile Name="Friend_right_line.png" Key="Friend_right_line.png" />
+              <PlistImageFile Name="Friend_right_xiala_line.png" Key="Friend_right_xiala_line.png" />
+              <PlistImageFile Name="Friend_room_button_in.png" Key="Friend_room_button_in.png" />
+              <PlistImageFile Name="Friend_room_button_join.png" Key="Friend_room_button_join.png" />
+              <PlistImageFile Name="Friend_room_infor_bg.png" Key="Friend_room_infor_bg.png" />
+              <PlistImageFile Name="Friend_room_infor_kuang.png" Key="Friend_room_infor_kuang.png" />
+              <PlistImageFile Name="Friend_room_infor_text.png" Key="Friend_room_infor_text.png" />
+              <PlistImageFile Name="Friend_RoomCard_bg.png" Key="Friend_RoomCard_bg.png" />
+              <PlistImageFile Name="Friend_roomInfor_bg.png" Key="Friend_roomInfor_bg.png" />
+              <PlistImageFile Name="Friend_RoomInfor_text.png" Key="Friend_RoomInfor_text.png" />
+              <PlistImageFile Name="Friend_shurukuang.png" Key="Friend_shurukuang.png" />
+              <PlistImageFile Name="Friend_text_RoomCard.png" Key="Friend_text_RoomCard.png" />
+              <PlistImageFile Name="Friend_text_szqm.png" Key="Friend_text_szqm.png" />
+              <PlistImageFile Name="Friend_text_szqm2.png" Key="Friend_text_szqm2.png" />
+              <PlistImageFile Name="Friend_text_title.png" Key="Friend_text_title.png" />
+              <PlistImageFile Name="Friend_touxiang.png" Key="Friend_touxiang.png" />
+              <PlistImageFile Name="Friend_touxiang_bg.png" Key="Friend_touxiang_bg.png" />
+              <PlistImageFile Name="Friend_touxiang_hui.png" Key="Friend_touxiang_hui.png" />
+              <PlistImageFile Name="Friend_touxiang_kuang.png" Key="Friend_touxiang_kuang.png" />
+            </PlistImageFolder>
+            <Image Name="create.png" />
+            <Image Name="cxin.png" />
+            <Image Name="fhui.png" />
+            <Image Name="Friend_bg.png" />
+            <Image Name="join.png" />
+            <Image Name="jru.png" />
+            <Image Name="kuang.png" />
+            <Image Name="sureBtn.png" />
+            <Image Name="tx.png" />
+            <Image Name="addCard_bg.png" />
+            <Image Name="fangksz.png" />
+            <Image Name="close.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="jia.png" />
+            <Image Name="jian.png" />
+            <Image Name="Friend_bigwin_bg.png" />
+            <Image Name="cancelBtn.png" />
+            <Image Name="name1.png" />
           </Folder>
           <Folder Name="createroom">
             <Image Name="back.png" />
@@ -201,6 +261,7 @@
             <TTF Name="Droid Sans Fallback.ttf" />
             <TTF Name="DroidSansFallback.ttf" />
             <TTF Name="fangzheng.ttf" />
+            <TTF Name="Fangzhenzhunhei.ttf" />
           </Folder>
           <Folder Name="lobby">
             <Image Name="add.png" />
@@ -224,6 +285,7 @@
           <Folder Name="login">
             <Image Name="bg.png" />
           </Folder>
+          <Folder Name="message" />
           <Folder Name="public">
             <Folder Name="button">
               <Image Name="button_dark.png" />

@@ -1,181 +1,238 @@
-        <stEvt:action>created</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:2a116f5c-a5ac-df4a-8742-59cc2771f004</stEvt:instanceID>
-                  <stEvt:when>2017-05-08T10:45:54+08:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Photoshop CC (Windows)</stEvt:softwareAgent>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:f83023ff-6189-df41-a723-2faa6b0a9986</stEvt:instanceID>
-                  <stEvt:when>2017-05-08T10:45:54+08:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Photoshop CC (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:8ede5962-333f-5e4c-94ed-623bed6ea208</stEvt:instanceID>
-                  <stEvt:when>2017-05-08T10:46:27+08:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Photoshop CC (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpMM:History>
-         <dc:format>image/png</dc:format>
-         <photoshop:ColorMode>3</photoshop:ColorMode>
-         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>
-         <tiff:Orientation>1</tiff:Orientation>
-         <tiff:XResolution>3000000/10000</tiff:XResolution>
-         <tiff:YResolution>3000000/10000</tiff:YResolution>
-         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>
-         <exif:ColorSpace>1</exif:ColorSpace>
-         <exif:PixelXDimension>143</exif:PixelXDimension>
-         <exif:PixelYDimension>144</exif:PixelYDimension>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                            
-<?xpacket end="w"?>MˇPf    cHRM  z%  ÄÉ  ˘ˇ  ÄÈ  u0  Í`  :ò  oí_≈F  ıIDATx⁄Ï€[å\˜]Ôˇ\gÊÃŒÏÕﬁÿuH]…i]!EJPSâ$F$§j°≤™<$–'HÍ⁄Èõ_™®?—ÿM®D-yihì
-h(≠€ZÑ€ãÅ—∆-v€q÷ﬁù˚πüÛøÒ‡3ì„…Ã˙ÇbÔ.øØÙ◊x◊3ˇYÕ˘ÏÔ9ˇeZü¿Ü0JÕ,Y©Q6Nt©) ≤x6}≥[7∆*ö3÷Ï⁄∏p$  k¢h7…∫4Ä*ÄÄ: Øx¨ pãÁ´e„dXmÄ@
- -êî ]7"Îp h ö  Ãò+æÆˇÔœ7®Úl® £
-yÅ$0 –––)æˆ«Èõ≈cCë`¶¿≤¿ ;,∏‡ ú÷ZØ €«Èzm¿“£~bø‰;v∑÷zÄè XÄKJ©5€∂: Ç¢BÒﬁÙÍ2a¬<ÑS-*ÀÄ] >X‡y¿˜Åá˙tY6o8ˇq–üVJﬂ´µæ‡-∆ÿ€ .g4µ¯ZÄ∆Ò∞“05W`Ÿ‡√Ey{x®G˝÷IñüWJNJπMJı≠ıõJ©À≤:Ω^ê‹u◊R6m+„ŒqÜp> `ÄΩ ˛xË˙®∑n‚¯øùÁ|Á‚îÍÁÄ~õs—â¢4ﬁª˜.>	ê56\9≈g{Qqˆ¯{‡°ûÙÜ˜ﬂ?L”ÑeY∞m∂m√≤,ò¶	”4ac`åÊœÔ˚ÃXkh≠°îÇîRJ!¿9ÁBà—˜ï∫2ù<yrÙ˙ZÌ7ˇV©Ô8üBË,„*À∏tKæ˙Í©∏GL√SÆ:Û Ó,Ü™õ *ï
-«ÅÎ∫®T*p]∂m√qú ¬skÒÅ‰yŒ9≤,Cö¶»≤yû#œs!FÄ ©◊?˘èúoÅ1˛Äî*œsë∑ZÉ<éS˘Â/ø†ûyÊ	5	œ∞Í4ä™Û¡+À∏á˛nΩxffµZµZûÁŸ’jıëJ•Úé„‹gY÷áL”ú5√%@∑¨ÍdR æ‚lûÁ'”4˝Qí$?å¢à«qå8éë$	≤,Áì∆ssü~9À^˛Ä=R™ –Qß˘Œùú±}ZÎ∫åß\uö vh≠w ¯„k]ÔÖÖÃÃÃÃ6çß=œ{ Ûºm√Í3æŒ-‰J)óÑKúÛègYv0ä¢vEœ˚æˇl˝ Eí$ôægÏkñe˛©R™ÀπËs.#ﬂè≤ÂÂc∆ˆ©! ´Ñ®Vl ÓdåΩv=´™Ì€∑ˇŒÏÏÏ≥çFc…Ûº—0f€6ÕynÛúásé<œë¶ÈbEœxû˜á’jıi«q^¥,k›k≤¥¥øÀ˘w˛’0å{ÑP≠,À{Y∆√≥g/•Â•ªU≤Í Êµ÷K ˛|ΩÎ}‡¿s~~˛´w‹q«ìÕfız’jÆÎ¬≤,XñEpn3 !Ñ»≤µZ’ju©R©|Àqú_≥,ÎÜa»kÙˆ≤mõè ÿ°îæ,ÑÏ-.6# jX}∆ÒÃ∏Ãÿæ˛zpæΩ∏∏∏nnçFc«∂mÜ1ÇS*ÉteoúÚøïRPJç2√ÎcöÊìå±% À∏rœkbvÌZÓ¡7œ1∆Ó–ZoBÆj≠∏r˚Bï+è¿”Zœ¯≈z?‰¸¸¸≥ããã˚–l6Q´’FgXiÀ≠œ¯/+cÜaåVΩ√9®a ∞_k}¿Åı˙t]Á5√`è*•ÁïRM∆XWn§J∆ˆçŒ„oG‘úô÷Ÿ·√áõüü?077áf≥â·<gZ≈°‹^L√kb€6*ï
-<œC≥Ÿƒ‹‹ÊÁÁ?¯·«ÆQœNk*•ÊÑê3ZÎj©‡åtŸ≈–U—Z_ú‘Õ°Cáfgggè5õM4çâá≤11∆`Y\◊E≠VC£—@≥ŸƒÏÏÏ±CáÕN{≠î˙úa∞ö÷∫.Ñö·\TÒÓŸ≠—Ò	≥ÂjçhRGçF„ÈF£±}|rLp6†jµäzΩéF£±Ω—h<=}•Ä9R™™≤¶î.ü€bÂ„£¶÷⁄2Õ_œÓ—¡Éùbá‡l!@ûÁ¡Ûºß<ËLzÕ›w?¡É£îr9.Á¬-*è1é«–˙J9OµZ}ÿÛºmÂ[gÛ≤m{tK…Ûºm’jı·È’Ü÷∞•T√#«VÓ…øâ*ï √ÆÎ¬qú´ˆp(õw"mYV˘æ‰#ÎºƒêRRJK)mñÊ…Ï∫Œ;éso˘Æ9·ŸxÜ◊‘qú{◊Ÿ?b •¥©î*ˇ•Ã’á’ÀMÂXñuwyüÄ‡l@•„4{÷]∞è )î¶9◊WyL”lú≠»4ÕÊµû^B4p]x√ph˜xkNûDŒµû?È¸èq£o4¸ö≤π·îØÎÕtqCx([”çÜ˛∫ìr”!<¬C!<¬C!<
-·°
-·°
-·°PÖPÖP(ÑáBx(ÑáBx(ÑáB!<¬C!<¬C°
-·°
-·°
-ÖPÖPÖBx(ÑáBx(ÑáBx(¬C!<¬C!<
-·°
-·°
-·°PÖPÖP(ÑáBx(ÑáBx(ÑáB!<¬C!<¬C°
-·°
-·°
-ÖPÖPÖBx(ÑáBx(ÑáBx(¬C!<¬C!<
-·°
-·°
-·°PÖPÂˇ≠5}R[87{}Øœ∞¶≠É•|MﬂO<˘8  Ê4lJ©¸}√#•H)°î"<[èR
-RJH)ÔŒ˘i!–÷É#Ñ Á¸Ùˇè{º*yûˇÁús!–ÄS†ÁyûˇÁÙÁ_˝8éGMÌ=I”ÙxñeÑg‚…≤iöü˛|••T˙J¶„ë dû∑«;Hí‰x«ù$IêeÑ4yﬁƒìd!≤,Cí$à„∏ï$…'=ˇ‘©o⁄Rj%•RR*-Ñ‘ìH BkÕÊçwrÏÿ±<√Á¢(Bí$H”î mb8iö"IDQÑ0ˇÏÿ±c”V[Œπ‰\(!dè‚Q 8Ä@‡ŒIΩ¯æˇ¨Ô˚kaÇ*–ÊØ8a¬˜˝ñÔ˚œÆÛ“›i Eñqë¶πòTydÅ'QJáÄﬁ3©ó£Gèˆ˚˝˛¡¡` ﬂ˜«1⁄Ñp‚8ÜÔ˚Ë˜˚è=⁄üæE£~9ä“<éS«©Hí\ñU√ ìà Ù•‘û÷Ÿë#G˛∫€Ì>ﬂÎı0E“4ÁJ)öHo¿â±R
-ús§iä(ä0–Îı–Ìvü?r‰»ãÎı1ÑøÍ˚QÊ˚qÜIû$ô,ÕëµU‡…ÑJ©ûîjo˝C”Ûù∏q‘Ìv1∆v ÿ_ﬁ+®T*∞,Üa¿00∆ `ÙHπ5`∆·îÁ8æÔ£◊Î°›n∑€ÌZØØ7ﬁ¯∆Bß|¨€ﬁÓ˜√4í,I2^x— p≠uWJ’2M„3 ˛jRßœ=˜ú<p‡¿≤÷˙´R '9Á®◊Î®V´p]ñeç1∆œm¢Üh∆Á8É¡ ›n˜k›n˜Ω^OÆ◊WöÚ«◊÷ziß3à∫› é¢$Õs!J[:⁄*û+ ƒJÈÁbEJ„WÉWæ◊l~™;Äß>¸OiöMídªÁy®V´∞m∂m√4Mtõ‡H)GÄ√UïÔ˚k˝~ˇPøﬂq8o]ØÍ¨¨tñ/]ÍˆVW{aØDqú%≈‹XîÒË‚	Ä>Áb¿N«±ˇ ¿ü¨˜Ø≠≠Ωò$…¢(˙bΩ^ˇ|≠V[p]∂m√≤,ò¶Ixn1û“-á·πÜ·ÛæÔ%Ç~nπLKø}È¬ÖU˘Œ;mm≠Ô˜˚aqîÁ<+ ]UyÄú16B≠
-!Œq.ÔSÍo>ªm€g^öˆ&ùNIíÙ√0|∆Ûº?™V´èT*ïá«πœ∂Ìô¶9gÜMsü[3◊QJq)eès~6œÛìiöOí‰xEy«à„x¥Õ¬9üÿ◊ÎØ˝˜ŒûΩÙâsÁ._∫x±›[[Î˜£(	9óq±∞≈
-}ÑGIí%ZÎví‰Á›B|R©Ôˆññˆˇd“A0Z˛Öa»]◊}≈qúWÜ√Uû€SyÜ√VûÁ√€»≤yû#œÛ—-¶Ò¸Ùß˘Ëô3+áNüæÿ:~µw˘rßÁ˚— ä“Á",¨“kU´’œ=Ø2à„Ù≤R∫ñ¶ºöe¸sy˛Ì˘;Ô\˛Œ¯õù8qÇÆ⁄…ÎØ˝Ò3gVæxÍ‘˘ŒÈ”€.¨u⁄ÌA7í.Ár  êñÊ<W·—{˜ﬁ≈œü_M9›0L√`NZf•ø«/‹„8ˆWvÔ˛›}‘['?˚Ÿ7ÉËKoæπÚâ”ß/∂œúyß}Ó‹j{m≠◊
-Ç∏ì$Yós·xÚè÷˙Ñ∂∆´ﬂ…ì?ÁµZ%JílMJeò¶¡«ÉAt˜ÃLÌ/Ú¸Ö„Ü¡æµgœ„=˙Ë75öπ,„O¨¨¥;~UΩı÷Â’V{.¨µ[≠~´◊÷¬0iq.{ ÇbAï£tÚÇi˝ﬁ°Á•ó^5Û\TZ≠˛åm[KÜaÏr]{wµÍÓˆº ÆôôÍ¢ÁUﬁºÍø˚o≠ı≠—ˇËG_–eŸêP, ≥ ~I)uOø~º”Ò?∂∫⁄À.]Í/∂ÇïïŒ`uµ€k∑Ì à[aò¨q.[ : ∏r" µ>°ß‚al[^~–ÿΩ{GE)Uw{ﬁq¨ù∂mÌr]ÁïäΩ£Zu+ßÈ∫∂g€f≈4MÀ0ò	0É1∞Òï ÂvL¢≠µñRiŒÖÃ2.¬0·æe›n∑€~‹jı¢V´Ô∑€˛†ﬂ{Qîvì$k!; ∫úÚJKÒXìﬂÙÑflüZ^~0Õ2ÆõMOÀm€ä,ÀÏ∫ÆΩÊ8ˆvÀ2Ál€j´2∆∆ò≈3mêôç•‘è 2.£(ÂAêdÉAòvªAQ‹ÎE~'~öÊ}!TOŸ+–LúÎ˚∂¶´Ω@∂{˜57WµZ%s];pªg€Ê™asÜ¡ñez ™Z√÷Zõå¡‘Z3≠AkÙ€\yîRz(I2ëe\DQí«qñÖaí&I•iq.!‰†òﬂ≈0ïLÉ3uÿ¬ ∞ö›hxïf≥Ê1∆ºZ≠2Ë:c¨¶îÆ0∆\‡
- º{>ö ›∆H)µJ–Yñ+)ïLSŒ9Á9Á2cå•úã∏¿-)ÌÈLÑs]x∆ "ßh n— 6 ≥hå‡lºbÑ“ëcº{0+ZZ|ùóˆs&¬πn<%@( YòÚ„ˇ	œ∆≈3º3.ä∆KU¶|Á”‡‹û	àÜïhXiåu‡¢€èf U™D£≥:Î°πi<°Ñ•åÜ¿llHz¨·z—Ûø Ã∂’(·ù    IENDÆB`Ç                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+<GameFile>
+  <PropertyGroup Name="UserView" Type="Node" ID="fb15a6c2-dad0-411b-88c5-27dee95e2a14" Version="3.10.0.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Node" Tag="58" ctype="GameNodeObjectData">
+        <Size X="0.0000" Y="0.0000" />
+        <Children>
+          <AbstractNodeData Name="black" ActionTag="1707756025" Tag="272" IconVisible="False" RightMargin="-200.0000" TopMargin="-200.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="178" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+            <Size X="200.0000" Y="200.0000" />
+            <AnchorPoint />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <SingleColor A="255" R="0" G="0" B="0" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="MainPanel" ActionTag="689607618" Tag="59" IconVisible="False" LeftMargin="-300.0000" RightMargin="-300.0000" TopMargin="-200.0000" BottomMargin="-200.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="600.0000" Y="400.0000" />
+            <Children>
+              <AbstractNodeData Name="frame" ActionTag="-897822171" Tag="261" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" Scale9Enable="True" LeftEage="144" RightEage="144" TopEage="13" BottomEage="13" Scale9OriginX="144" Scale9OriginY="13" Scale9Width="149" Scale9Height="15" ctype="ImageViewObjectData">
+                <Size X="600.0000" Y="400.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="300.0000" Y="200.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="1.0000" Y="1.0000" />
+                <FileData Type="Normal" Path="views/lobby/bar1.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="title" ActionTag="-709390991" Tag="262" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="258.0000" RightMargin="258.0000" TopMargin="26.4994" BottomMargin="348.5006" FontSize="20" LabelText="‰∏™‰∫∫‰ø°ÊÅØ" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="84.0000" Y="25.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="300.0000" Y="361.0006" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.9025" />
+                <PreSize X="0.1400" Y="0.0625" />
+                <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                <OutlineColor A="255" R="0" G="128" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="close" ActionTag="878827294" CallBackType="Click" CallBackName="clickBack" Tag="273" IconVisible="False" LeftMargin="561.7858" RightMargin="-35.7858" TopMargin="-35.0315" BottomMargin="361.0315" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="52" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="74.0000" Y="74.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="598.7858" Y="398.0315" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9980" Y="0.9951" />
+                <PreSize X="0.1233" Y="0.1850" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <NormalFileData Type="Normal" Path="views/enterroom/close.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="list" ActionTag="1757895655" Tag="263" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.0000" RightMargin="50.0000" TopMargin="125.0000" BottomMargin="125.0000" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" ScrollDirectionType="0" ItemMargin="20" DirectionType="Vertical" ctype="ListViewObjectData">
+                <Size X="500.0000" Y="150.0000" />
+                <Children>
+                  <AbstractNodeData Name="name" ActionTag="1707297848" Tag="274" IconVisible="False" BottomMargin="160.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                    <Size X="500.0000" Y="60.0000" />
+                    <Children>
+                      <AbstractNodeData Name="bg" ActionTag="1436215181" Tag="275" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" Scale9Enable="True" LeftEage="54" RightEage="54" TopEage="14" BottomEage="14" Scale9OriginX="54" Scale9OriginY="14" Scale9Width="58" Scale9Height="17" ctype="ImageViewObjectData">
+                        <Size X="500.0000" Y="60.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="250.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="1.0000" Y="1.0000" />
+                        <FileData Type="Normal" Path="views/createroom/bar3.png" Plist="" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="title" ActionTag="1118135470" Tag="276" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="59.5000" RightMargin="379.5000" TopMargin="15.0000" BottomMargin="15.0000" FontSize="26" LabelText="ÊòµÁß∞:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="61.0000" Y="30.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="90.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.1800" Y="0.5000" />
+                        <PreSize X="0.1220" Y="0.5000" />
+                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="value" ActionTag="594172192" Tag="277" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="250.0000" RightMargin="250.0000" TopMargin="30.0000" BottomMargin="30.0000" FontSize="32" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="0.0000" Y="0.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="250.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="0.0000" Y="0.0000" />
+                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint />
+                    <Position Y="160.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition Y="0.7273" />
+                    <PreSize X="1.0000" Y="0.2727" />
+                    <SingleColor A="255" R="150" G="200" B="255" />
+                    <FirstColor A="255" R="150" G="200" B="255" />
+                    <EndColor A="255" R="255" G="255" B="255" />
+                    <ColorVector ScaleY="1.0000" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="id" ActionTag="103668736" ZOrder="1" Tag="264" IconVisible="False" BottomMargin="90.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+                    <Size X="500.0000" Y="60.0000" />
+                    <Children>
+                      <AbstractNodeData Name="bg" ActionTag="525823941" Tag="270" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" Scale9Enable="True" LeftEage="54" RightEage="54" TopEage="14" BottomEage="14" Scale9OriginX="54" Scale9OriginY="14" Scale9Width="58" Scale9Height="17" ctype="ImageViewObjectData">
+                        <Size X="500.0000" Y="60.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="250.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="1.0000" Y="1.0000" />
+                        <FileData Type="Normal" Path="views/createroom/bar3.png" Plist="" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="title" ActionTag="1702673502" Tag="265" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="74.0000" RightMargin="394.0000" TopMargin="15.0000" BottomMargin="15.0000" FontSize="26" LabelText="ID:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="32.0000" Y="30.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="90.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.1800" Y="0.5000" />
+                        <PreSize X="0.0640" Y="0.5000" />
+                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="value" ActionTag="-1219146863" Tag="266" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="185.5000" RightMargin="185.5000" TopMargin="11.5000" BottomMargin="11.5000" FontSize="32" LabelText="0000000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="129.0000" Y="37.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="250.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="0.2580" Y="0.6167" />
+                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint />
+                    <Position Y="80.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition Y="0.6000" />
+                    <PreSize X="1.0000" Y="0.4000" />
+                    <SingleColor A="255" R="150" G="200" B="255" />
+                    <FirstColor A="255" R="150" G="200" B="255" />
+                    <EndColor A="255" R="255" G="255" B="255" />
+                    <ColorVector ScaleY="1.0000" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="vip" ActionTag="-2059090962" ZOrder="2" Tag="267" IconVisible="False" TopMargin="80.0000" BottomMargin="10.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                    <Size X="500.0000" Y="60.0000" />
+                    <Children>
+                      <AbstractNodeData Name="bg" ActionTag="-1973552147" Tag="271" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" Scale9Enable="True" LeftEage="54" RightEage="54" TopEage="14" BottomEage="14" Scale9OriginX="54" Scale9OriginY="14" Scale9Width="58" Scale9Height="17" ctype="ImageViewObjectData">
+                        <Size X="500.0000" Y="60.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="250.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="1.0000" Y="1.0000" />
+                        <FileData Type="Normal" Path="views/createroom/bar3.png" Plist="" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="title" ActionTag="-1577479923" Tag="268" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="68.0000" RightMargin="388.0000" TopMargin="15.0000" BottomMargin="15.0000" FontSize="26" LabelText="VIP:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="44.0000" Y="30.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="90.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.1800" Y="0.5000" />
+                        <PreSize X="0.0880" Y="0.5000" />
+                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="value" ActionTag="1416655882" Tag="269" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="239.5000" RightMargin="239.5000" TopMargin="11.5000" BottomMargin="11.5000" FontSize="32" LabelText="0" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="21.0000" Y="37.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="250.0000" Y="30.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="0.0420" Y="0.6167" />
+                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                    </Children>
+                    <AnchorPoint />
+                    <Position />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition Y="0.0667" />
+                    <PreSize X="1.0000" Y="0.4000" />
+                    <SingleColor A="255" R="150" G="200" B="255" />
+                    <FirstColor A="255" R="150" G="200" B="255" />
+                    <EndColor A="255" R="255" G="255" B="255" />
+                    <ColorVector ScaleY="1.0000" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="300.0000" Y="200.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.5000" />
+                <PreSize X="0.8333" Y="0.3750" />
+                <SingleColor A="255" R="150" G="150" B="255" />
+                <FirstColor A="255" R="150" G="150" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <SingleColor A="255" R="150" G="200" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameFile>

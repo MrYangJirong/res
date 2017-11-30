@@ -51,6 +51,8 @@
             <Image Name="tiao.png" />
           </Folder>
           <Folder Name="font">
+            <TTF Name="Droid Sans Fallback.ttf" />
+            <TTF Name="DroidSansFallback.ttf" />
             <TTF Name="fangzheng.ttf" />
             <TTF Name="fangzhengzy.ttf" />
             <TTF Name="fzktjt.ttf" />
@@ -148,6 +150,14 @@
             <Image Name="loser.png" />
             <Image Name="more_Down.png" />
             <Image Name="more_Up.png" />
+            <Image Name="player_tx_k.png" />
+            <Image Name="record_bg.jpg" />
+            <Image Name="record_world_norecord.png" />
+            <Image Name="record_xq_list_bg.png" />
+            <Image Name="record_xq_list_bg2.png" />
+            <Image Name="res_qzcs_2.png" />
+            <Image Name="res_tzcs.png" />
+            <Image Name="res_zzcs.png" />
             <Image Name="share.png" />
             <Image Name="text.png" />
             <Image Name="text1.png" />

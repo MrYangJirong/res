@@ -75,22 +75,30 @@
             <Image Name="xingyundu2.png" />
           </Folder>
           <Folder Name="font">
+            <TTF Name="Droid Sans Fallback.ttf" />
             <TTF Name="fangzheng.ttf" />
             <TTF Name="fzktjt.ttf" />
             <TTF Name="sc_ccbackbeatregular.ttf" />
           </Folder>
           <Folder Name="jiesan">
             <Image Name="agree.png" />
-            <Image Name="bg.png" />
-            <Image Name="bg1.png" />
             <Image Name="jiesan.png" />
-            <Image Name="jiesan1.png" />
             <Image Name="refuse.png" />
             <Image Name="tuichu.png" />
             <Image Name="weixuanze.png" />
             <Image Name="yifandui.png" />
             <Image Name="yiqiquan.png" />
             <Image Name="yitongyi.png" />
+            <Image Name="set_bg.png" />
+            <Image Name="jiesanfangjian.png" />
+            <Image Name="desktop_jindutiao1.png" />
+            <Image Name="desktop_jindutiao2.png" />
+            <Image Name="desktop_anniu_jujue.png" />
+            <Image Name="desktop_anniu_jujue_p.png" />
+            <Image Name="desktop_anniu_tongyi.png" />
+            <Image Name="desktop_anniu_tongyi_p.png" />
+            <Image Name="dengdai.png" />
+            <Image Name="head_bg.png" />
           </Folder>
           <Folder Name="lobby">
             <Image Name="add.png" />

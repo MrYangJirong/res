@@ -63,18 +63,14 @@
           <Folder Name="login">
             <Image Name="2.png" />
             <Image Name="5.png" />
-            <Image Name="bg.png" />
-            <Image Name="bg2.jpg" />
+            <Image Name="home_bg.png" />
             <Image Name="ID_16.png" />
             <Image Name="ID_17.png" />
             <Image Name="ID_24_180.png" />
             <Image Name="ID_24_199.png" />
-            <Image Name="logo.png" />
-            <Image Name="logo3.png" />
-            <Image Name="logoniu.png" />
+            <Image Name="login_buttom_shade.png" />
             <Image Name="ok.png" />
             <Image Name="okbar.png" />
-            <Image Name="start.png" />
           </Folder>
           <Folder Name="nysdesk">
             <Image Name="bgcs.png" />

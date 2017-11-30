@@ -85,7 +85,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.0121" Y="0.7012" />
                         <PreSize X="0.1075" Y="0.4000" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
@@ -97,7 +97,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.0121" Y="0.2686" />
                         <PreSize X="0.1075" Y="0.4000" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
@@ -109,7 +109,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.0121" Y="-0.1640" />
                         <PreSize X="0.1075" Y="0.4000" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
@@ -121,7 +121,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.0149" Y="-0.5967" />
                         <PreSize X="0.1075" Y="0.4000" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
@@ -169,7 +169,7 @@
                     <CColor A="255" R="255" G="0" B="0" />
                     <PrePosition X="0.1174" Y="0.3240" />
                     <PreSize X="0.0458" Y="0.3250" />
-                    <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                    <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -181,7 +181,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.8036" Y="0.4845" />
                     <PreSize X="0.0572" Y="0.4250" />
-                    <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                    <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -755,27 +755,75 @@
                   <AbstractNodeData Name="chatFrame" ActionTag="425455471" VisibleForFrame="False" Tag="217" IconVisible="False" LeftMargin="205.9488" RightMargin="184.0512" TopMargin="107.7500" BottomMargin="82.2500" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="10.0000" Y="10.0000" />
                     <Children>
-                      <AbstractNodeData Name="txtPnl" CanEdit="False" ActionTag="1383569096" VisibleForFrame="False" Tag="218" IconVisible="False" RightMargin="-190.0000" TopMargin="-20.0000" ClipAble="False" BackColorAlpha="128" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-                        <Size X="200.0000" Y="30.0000" />
+                      <AbstractNodeData Name="txtPnl" ActionTag="1230621576" VisibleForFrame="False" Tag="946" IconVisible="False" LeftMargin="-24.3093" RightMargin="-265.6907" TopMargin="-29.5804" BottomMargin="-27.4196" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
                         <Children>
-                          <AbstractNodeData Name="txt" CanEdit="False" ActionTag="1748299377" Tag="219" IconVisible="False" LeftMargin="5.0000" RightMargin="195.0000" TopMargin="25.0000" BottomMargin="5.0000" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                            <Size X="0.0000" Y="0.0000" />
-                            <AnchorPoint />
-                            <Position X="5.0000" Y="5.0000" />
+                          <AbstractNodeData Name="chatbg" ActionTag="-1753232273" Tag="947" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" Scale9Enable="True" LeftEage="67" RightEage="80" TopEage="36" BottomEage="15" Scale9OriginX="67" Scale9OriginY="36" Scale9Width="12" Scale9Height="16" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="67.0000" />
+                            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                            <Position X="150.0000" Y="33.5000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.0250" Y="0.1667" />
-                            <PreSize X="0.0000" Y="0.0000" />
+                            <PrePosition X="0.5000" Y="0.5000" />
+                            <PreSize X="1.0000" Y="1.0000" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg1.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt" ActionTag="-574656608" Tag="948" IconVisible="False" LeftMargin="34.0000" RightMargin="25.0000" TopMargin="10.0000" BottomMargin="31.0000" FontSize="20" LabelText="风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="241.0000" Y="26.0000" />
+                            <AnchorPoint />
+                            <Position X="34.0000" Y="31.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.1133" Y="0.4627" />
+                            <PreSize X="0.8033" Y="0.3881" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
                             <OutlineColor A="255" R="255" G="0" B="0" />
                             <ShadowColor A="255" R="110" G="110" B="110" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint />
-                        <Position />
+                        <Position X="-24.3093" Y="-27.4196" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition />
-                        <PreSize X="20.0000" Y="3.0000" />
+                        <PrePosition X="-2.4309" Y="-2.7420" />
+                        <PreSize X="30.0000" Y="6.7000" />
+                        <SingleColor A="255" R="26" G="26" B="26" />
+                        <FirstColor A="255" R="150" G="200" B="255" />
+                        <EndColor A="255" R="255" G="255" B="255" />
+                        <ColorVector ScaleY="1.0000" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="txtPnl1" ActionTag="1870069420" VisibleForFrame="False" Tag="949" IconVisible="False" LeftMargin="-13.3100" RightMargin="-276.6900" TopMargin="-30.5800" BottomMargin="-26.4200" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
+                        <Children>
+                          <AbstractNodeData Name="chatbg1" ActionTag="2095699365" Tag="950" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="-11.0000" RightMargin="11.0000" TopMargin="-17.9900" BottomMargin="-2.0100" Scale9Enable="True" LeftEage="59" RightEage="67" TopEage="19" BottomEage="42" Scale9OriginX="59" Scale9OriginY="19" Scale9Width="33" Scale9Height="6" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="87.0000" />
+                            <AnchorPoint ScaleX="0.5000" />
+                            <Position X="139.0000" Y="-2.0100" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.4633" Y="-0.0300" />
+                            <PreSize X="1.0000" Y="1.2985" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg1.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt1" ActionTag="-1160320913" Tag="951" RotationSkewX="1.0000" RotationSkewY="1.0000" IconVisible="False" LeftMargin="23.8700" RightMargin="29.6454" TopMargin="-4.1000" BottomMargin="29.7188" IsCustomSize="True" FontSize="20" LabelText="风水轮流转，底裤都输光了风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="246.4846" Y="41.3812" />
+                            <AnchorPoint ScaleY="1.0000" />
+                            <Position X="23.8700" Y="71.1000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0796" Y="1.0612" />
+                            <PreSize X="0.8216" Y="0.6176" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                            <OutlineColor A="255" R="255" G="0" B="0" />
+                            <ShadowColor A="255" R="110" G="110" B="110" />
+                          </AbstractNodeData>
+                        </Children>
+                        <AnchorPoint ScaleY="0.5000" />
+                        <Position X="-13.3100" Y="7.0800" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="-1.3310" Y="0.7080" />
+                        <PreSize X="30.0000" Y="6.7000" />
                         <SingleColor A="255" R="26" G="26" B="26" />
                         <FirstColor A="255" R="150" G="200" B="255" />
                         <EndColor A="255" R="255" G="255" B="255" />
@@ -1413,27 +1461,75 @@
                   <AbstractNodeData Name="chatFrame" ActionTag="531211946" VisibleForFrame="False" Tag="221" IconVisible="False" LeftMargin="217.6161" RightMargin="172.3839" TopMargin="105.6700" BottomMargin="84.3300" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="10.0000" Y="10.0000" />
                     <Children>
-                      <AbstractNodeData Name="txtPnl" CanEdit="False" ActionTag="822890867" VisibleForFrame="False" Tag="222" IconVisible="False" RightMargin="-190.0000" TopMargin="-20.0000" ClipAble="False" BackColorAlpha="128" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-                        <Size X="200.0000" Y="30.0000" />
+                      <AbstractNodeData Name="txtPnl" ActionTag="-44240096" VisibleForFrame="False" Tag="940" IconVisible="False" LeftMargin="-160.3100" RightMargin="-129.6900" TopMargin="0.4200" BottomMargin="-57.4200" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
                         <Children>
-                          <AbstractNodeData Name="txt" CanEdit="False" ActionTag="-600872417" Tag="223" IconVisible="False" LeftMargin="5.0000" RightMargin="195.0000" TopMargin="25.0000" BottomMargin="5.0000" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                            <Size X="0.0000" Y="0.0000" />
-                            <AnchorPoint />
-                            <Position X="5.0000" Y="5.0000" />
+                          <AbstractNodeData Name="chatbg" ActionTag="2084794324" Tag="941" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" FlipX="True" Scale9Enable="True" LeftEage="59" RightEage="78" TopEage="36" BottomEage="15" Scale9OriginX="59" Scale9OriginY="36" Scale9Width="22" Scale9Height="16" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="67.0000" />
+                            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                            <Position X="150.0000" Y="33.5000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.0250" Y="0.1667" />
-                            <PreSize X="0.0000" Y="0.0000" />
+                            <PrePosition X="0.5000" Y="0.5000" />
+                            <PreSize X="1.0000" Y="1.0000" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt" ActionTag="-1845853625" Tag="942" IconVisible="False" LeftMargin="33.0000" RightMargin="26.0000" TopMargin="27.0000" BottomMargin="14.0000" FontSize="20" LabelText="风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="241.0000" Y="26.0000" />
+                            <AnchorPoint />
+                            <Position X="33.0000" Y="14.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.1100" Y="0.2090" />
+                            <PreSize X="0.8033" Y="0.3881" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
                             <OutlineColor A="255" R="255" G="0" B="0" />
                             <ShadowColor A="255" R="110" G="110" B="110" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint />
-                        <Position />
+                        <Position X="-160.3100" Y="-57.4200" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition />
-                        <PreSize X="20.0000" Y="3.0000" />
+                        <PrePosition X="-16.0310" Y="-5.7420" />
+                        <PreSize X="30.0000" Y="6.7000" />
+                        <SingleColor A="255" R="26" G="26" B="26" />
+                        <FirstColor A="255" R="150" G="200" B="255" />
+                        <EndColor A="255" R="255" G="255" B="255" />
+                        <ColorVector ScaleY="1.0000" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="txtPnl1" ActionTag="2090209931" VisibleForFrame="False" Tag="943" IconVisible="False" LeftMargin="-150.3100" RightMargin="-139.6900" TopMargin="18.4200" BottomMargin="-75.4200" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
+                        <Children>
+                          <AbstractNodeData Name="chatbg1" ActionTag="262313563" Tag="944" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="-11.0000" RightMargin="11.0000" TopMargin="-17.9900" BottomMargin="-2.0100" FlipX="True" Scale9Enable="True" LeftEage="57" RightEage="80" TopEage="31" BottomEage="25" Scale9OriginX="57" Scale9OriginY="31" Scale9Width="22" Scale9Height="11" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="87.0000" />
+                            <AnchorPoint ScaleX="0.5000" />
+                            <Position X="139.0000" Y="-2.0100" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.4633" Y="-0.0300" />
+                            <PreSize X="1.0000" Y="1.2985" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt1" ActionTag="966945692" Tag="945" RotationSkewX="1.0000" RotationSkewY="1.0000" IconVisible="False" LeftMargin="21.8700" RightMargin="31.6454" TopMargin="11.9000" BottomMargin="13.7188" IsCustomSize="True" FontSize="20" LabelText="风水轮流转，底裤都输光了风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="246.4846" Y="41.3812" />
+                            <AnchorPoint ScaleY="1.0000" />
+                            <Position X="21.8700" Y="55.1000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0729" Y="0.8224" />
+                            <PreSize X="0.8216" Y="0.6176" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                            <OutlineColor A="255" R="255" G="0" B="0" />
+                            <ShadowColor A="255" R="110" G="110" B="110" />
+                          </AbstractNodeData>
+                        </Children>
+                        <AnchorPoint ScaleY="0.5000" />
+                        <Position X="-150.3100" Y="-41.9200" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="-15.0310" Y="-4.1920" />
+                        <PreSize X="30.0000" Y="6.7000" />
                         <SingleColor A="255" R="26" G="26" B="26" />
                         <FirstColor A="255" R="150" G="200" B="255" />
                         <EndColor A="255" R="255" G="255" B="255" />
@@ -2068,30 +2164,78 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="chatFrame" CanEdit="False" ActionTag="995575254" VisibleForFrame="False" Tag="225" IconVisible="False" LeftMargin="153.5492" RightMargin="236.4508" TopMargin="126.5742" BottomMargin="63.4258" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                  <AbstractNodeData Name="chatFrame" ActionTag="995575254" VisibleForFrame="False" Tag="225" IconVisible="False" LeftMargin="153.5492" RightMargin="236.4508" TopMargin="126.5742" BottomMargin="63.4258" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="10.0000" Y="10.0000" />
                     <Children>
-                      <AbstractNodeData Name="txtPnl" CanEdit="False" ActionTag="-1205911008" VisibleForFrame="False" Tag="226" IconVisible="False" RightMargin="-190.0000" TopMargin="-20.0000" ClipAble="False" BackColorAlpha="128" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-                        <Size X="200.0000" Y="30.0000" />
+                      <AbstractNodeData Name="txtPnl" ActionTag="-1760202882" VisibleForFrame="False" Tag="934" IconVisible="False" LeftMargin="-28.2600" RightMargin="-261.7400" TopMargin="-83.7200" BottomMargin="26.7200" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
                         <Children>
-                          <AbstractNodeData Name="txt" CanEdit="False" ActionTag="-1307513716" Tag="227" IconVisible="False" LeftMargin="5.0000" RightMargin="195.0000" TopMargin="25.0000" BottomMargin="5.0000" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                            <Size X="0.0000" Y="0.0000" />
-                            <AnchorPoint />
-                            <Position X="5.0000" Y="5.0000" />
+                          <AbstractNodeData Name="chatbg" ActionTag="774269292" Tag="935" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" FlipX="True" Scale9Enable="True" LeftEage="59" RightEage="78" TopEage="36" BottomEage="15" Scale9OriginX="59" Scale9OriginY="36" Scale9Width="22" Scale9Height="16" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="67.0000" />
+                            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                            <Position X="150.0000" Y="33.5000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.0250" Y="0.1667" />
-                            <PreSize X="0.0000" Y="0.0000" />
+                            <PrePosition X="0.5000" Y="0.5000" />
+                            <PreSize X="1.0000" Y="1.0000" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt" ActionTag="-1952049963" Tag="936" IconVisible="False" LeftMargin="33.0000" RightMargin="26.0000" TopMargin="27.0000" BottomMargin="14.0000" FontSize="20" LabelText="风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="241.0000" Y="26.0000" />
+                            <AnchorPoint />
+                            <Position X="33.0000" Y="14.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.1100" Y="0.2090" />
+                            <PreSize X="0.8033" Y="0.3881" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
                             <OutlineColor A="255" R="255" G="0" B="0" />
                             <ShadowColor A="255" R="110" G="110" B="110" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint />
-                        <Position />
+                        <Position X="-28.2600" Y="26.7200" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition />
-                        <PreSize X="20.0000" Y="3.0000" />
+                        <PrePosition X="-2.8260" Y="2.6720" />
+                        <PreSize X="30.0000" Y="6.7000" />
+                        <SingleColor A="255" R="26" G="26" B="26" />
+                        <FirstColor A="255" R="150" G="200" B="255" />
+                        <EndColor A="255" R="255" G="255" B="255" />
+                        <ColorVector ScaleY="1.0000" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="txtPnl1" ActionTag="-1430484389" VisibleForFrame="False" Tag="937" IconVisible="False" LeftMargin="-17.2600" RightMargin="-272.7400" TopMargin="-66.7200" BottomMargin="9.7200" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
+                        <Children>
+                          <AbstractNodeData Name="chatbg1" ActionTag="-1513672065" Tag="938" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="-11.0000" RightMargin="11.0000" TopMargin="-17.9900" BottomMargin="-2.0100" FlipX="True" Scale9Enable="True" LeftEage="57" RightEage="80" TopEage="31" BottomEage="25" Scale9OriginX="57" Scale9OriginY="31" Scale9Width="22" Scale9Height="11" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="87.0000" />
+                            <AnchorPoint ScaleX="0.5000" />
+                            <Position X="139.0000" Y="-2.0100" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.4633" Y="-0.0300" />
+                            <PreSize X="1.0000" Y="1.2985" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt1" ActionTag="-40643140" Tag="939" RotationSkewX="1.0000" RotationSkewY="1.0000" IconVisible="False" LeftMargin="21.8700" RightMargin="31.6454" TopMargin="11.9000" BottomMargin="13.7188" IsCustomSize="True" FontSize="20" LabelText="风水轮流转，底裤都输光了风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="246.4846" Y="41.3812" />
+                            <AnchorPoint ScaleY="1.0000" />
+                            <Position X="21.8700" Y="55.1000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0729" Y="0.8224" />
+                            <PreSize X="0.8216" Y="0.6176" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                            <OutlineColor A="255" R="255" G="0" B="0" />
+                            <ShadowColor A="255" R="110" G="110" B="110" />
+                          </AbstractNodeData>
+                        </Children>
+                        <AnchorPoint ScaleY="0.5000" />
+                        <Position X="-17.2600" Y="43.2200" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="-1.7260" Y="4.3220" />
+                        <PreSize X="30.0000" Y="6.7000" />
                         <SingleColor A="255" R="26" G="26" B="26" />
                         <FirstColor A="255" R="150" G="200" B="255" />
                         <EndColor A="255" R="255" G="255" B="255" />
@@ -2729,33 +2873,81 @@
                   <AbstractNodeData Name="chatFrame" ActionTag="-237140395" VisibleForFrame="False" Tag="229" IconVisible="False" LeftMargin="224.4089" RightMargin="165.5911" TopMargin="113.8024" BottomMargin="76.1976" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="10.0000" Y="10.0000" />
                     <Children>
-                      <AbstractNodeData Name="txtPnl" CanEdit="False" ActionTag="-291445361" VisibleForFrame="False" Tag="230" IconVisible="False" LeftMargin="-200.0000" RightMargin="10.0000" TopMargin="-20.0000" ClipAble="False" BackColorAlpha="128" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-                        <Size X="200.0000" Y="30.0000" />
+                      <AbstractNodeData Name="txtPnl" ActionTag="-951032314" VisibleForFrame="False" Tag="928" IconVisible="False" LeftMargin="-177.2600" RightMargin="-112.7400" TopMargin="0.2800" BottomMargin="-57.2800" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
                         <Children>
-                          <AbstractNodeData Name="txt" CanEdit="False" ActionTag="-157513030" Tag="231" IconVisible="False" LeftMargin="195.0000" RightMargin="5.0000" TopMargin="24.9995" BottomMargin="5.0005" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                            <Size X="0.0000" Y="0.0000" />
-                            <AnchorPoint ScaleX="1.0000" />
-                            <Position X="195.0000" Y="5.0005" />
+                          <AbstractNodeData Name="chatbg" ActionTag="-1458968447" Tag="929" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" Scale9Enable="True" LeftEage="59" RightEage="78" TopEage="36" BottomEage="15" Scale9OriginX="59" Scale9OriginY="36" Scale9Width="22" Scale9Height="16" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="67.0000" />
+                            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                            <Position X="150.0000" Y="33.5000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.9750" Y="0.1667" />
-                            <PreSize X="0.0000" Y="0.0000" />
+                            <PrePosition X="0.5000" Y="0.5000" />
+                            <PreSize X="1.0000" Y="1.0000" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt" ActionTag="-390098468" Tag="930" IconVisible="False" LeftMargin="21.0000" RightMargin="38.0000" TopMargin="27.0000" BottomMargin="14.0000" FontSize="20" LabelText="风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="241.0000" Y="26.0000" />
+                            <AnchorPoint />
+                            <Position X="21.0000" Y="14.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0700" Y="0.2090" />
+                            <PreSize X="0.8033" Y="0.3881" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
                             <OutlineColor A="255" R="255" G="0" B="0" />
                             <ShadowColor A="255" R="110" G="110" B="110" />
                           </AbstractNodeData>
                         </Children>
-                        <AnchorPoint ScaleX="1.0000" />
-                        <Position />
+                        <AnchorPoint />
+                        <Position X="-177.2600" Y="-57.2800" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition />
-                        <PreSize X="20.0000" Y="3.0000" />
+                        <PrePosition X="-17.7260" Y="-5.7280" />
+                        <PreSize X="30.0000" Y="6.7000" />
                         <SingleColor A="255" R="26" G="26" B="26" />
                         <FirstColor A="255" R="150" G="200" B="255" />
                         <EndColor A="255" R="255" G="255" B="255" />
                         <ColorVector ScaleY="1.0000" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="emoji" CanEdit="False" ActionTag="573874879" VisibleForFrame="False" Tag="232" IconVisible="False" LeftMargin="102.4074" RightMargin="-192.4074" TopMargin="-78.9192" BottomMargin="-11.0808" LeftEage="42" RightEage="42" TopEage="42" BottomEage="42" Scale9OriginX="40" Scale9OriginY="42" Scale9Width="2" Scale9Height="1" ctype="ImageViewObjectData">
+                      <AbstractNodeData Name="txtPnl1" ActionTag="1641526304" VisibleForFrame="False" Tag="931" IconVisible="False" LeftMargin="-166.2500" RightMargin="-123.7500" TopMargin="18.7100" BottomMargin="-75.7100" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="300.0000" Y="67.0000" />
+                        <Children>
+                          <AbstractNodeData Name="chatbg1" ActionTag="1621468739" Tag="932" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="-11.0000" RightMargin="11.0000" TopMargin="-17.9900" BottomMargin="-2.0100" Scale9Enable="True" LeftEage="57" RightEage="80" TopEage="31" BottomEage="25" Scale9OriginX="57" Scale9OriginY="31" Scale9Width="22" Scale9Height="11" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="87.0000" />
+                            <AnchorPoint ScaleX="0.5000" />
+                            <Position X="139.0000" Y="-2.0100" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.4633" Y="-0.0300" />
+                            <PreSize X="1.0000" Y="1.2985" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt1" ActionTag="2015445823" Tag="933" RotationSkewX="1.0000" RotationSkewY="1.0000" IconVisible="False" LeftMargin="10.8700" RightMargin="42.6454" TopMargin="11.9000" BottomMargin="13.7188" IsCustomSize="True" FontSize="20" LabelText="风水轮流转，底裤都输光了风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="246.4846" Y="41.3812" />
+                            <AnchorPoint ScaleY="1.0000" />
+                            <Position X="10.8700" Y="55.1000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0362" Y="0.8224" />
+                            <PreSize X="0.8216" Y="0.6176" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                            <OutlineColor A="255" R="255" G="0" B="0" />
+                            <ShadowColor A="255" R="110" G="110" B="110" />
+                          </AbstractNodeData>
+                        </Children>
+                        <AnchorPoint ScaleY="0.5000" />
+                        <Position X="-166.2500" Y="-42.2100" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="-16.6250" Y="-4.2210" />
+                        <PreSize X="30.0000" Y="6.7000" />
+                        <SingleColor A="255" R="26" G="26" B="26" />
+                        <FirstColor A="255" R="150" G="200" B="255" />
+                        <EndColor A="255" R="255" G="255" B="255" />
+                        <ColorVector ScaleY="1.0000" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="emoji" ActionTag="573874879" VisibleForFrame="False" Tag="232" IconVisible="False" LeftMargin="102.4074" RightMargin="-192.4074" TopMargin="-78.9192" BottomMargin="-11.0808" LeftEage="42" RightEage="42" TopEage="42" BottomEage="42" Scale9OriginX="40" Scale9OriginY="42" Scale9Width="2" Scale9Height="1" ctype="ImageViewObjectData">
                         <Size X="100.0000" Y="100.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="152.4074" Y="38.9192" />
@@ -3384,29 +3576,77 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="chatFrame" ActionTag="1580350063" VisibleForFrame="False" Tag="233" IconVisible="False" LeftMargin="90.6672" RightMargin="299.3328" TopMargin="112.3253" BottomMargin="77.6747" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                  <AbstractNodeData Name="chatFrame" ActionTag="1580350063" Tag="233" IconVisible="False" LeftMargin="90.6672" RightMargin="299.3328" TopMargin="112.3253" BottomMargin="77.6747" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="10.0000" Y="10.0000" />
                     <Children>
-                      <AbstractNodeData Name="txtPnl" ActionTag="-2053037959" Tag="234" IconVisible="False" LeftMargin="-200.0000" RightMargin="10.0000" TopMargin="-20.0000" ClipAble="False" BackColorAlpha="128" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                      <AbstractNodeData Name="txtPnl" ActionTag="2063669177" VisibleForFrame="False" Tag="922" IconVisible="False" LeftMargin="-259.9800" RightMargin="69.9800" TopMargin="-27.4373" BottomMargin="7.4373" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                         <Size X="200.0000" Y="30.0000" />
                         <Children>
-                          <AbstractNodeData Name="txt" ActionTag="637119912" Tag="235" IconVisible="False" LeftMargin="195.0000" RightMargin="5.0000" TopMargin="24.9995" BottomMargin="5.0005" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                            <Size X="0.0000" Y="0.0000" />
-                            <AnchorPoint ScaleX="1.0000" />
-                            <Position X="195.0000" Y="5.0005" />
+                          <AbstractNodeData Name="chatbg" ActionTag="997820228" Tag="923" IconVisible="False" LeftMargin="-17.0000" RightMargin="-83.0000" TopMargin="0.5000" BottomMargin="-37.5000" Scale9Enable="True" LeftEage="59" RightEage="78" TopEage="36" BottomEage="15" Scale9OriginX="59" Scale9OriginY="36" Scale9Width="22" Scale9Height="16" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="67.0000" />
+                            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                            <Position X="133.0000" Y="-4.0000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.9750" Y="0.1667" />
-                            <PreSize X="0.0000" Y="0.0000" />
+                            <PrePosition X="0.6650" Y="-0.1333" />
+                            <PreSize X="1.5000" Y="2.2333" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt" ActionTag="1423285215" Tag="924" IconVisible="False" LeftMargin="5.0000" RightMargin="-46.0000" TopMargin="28.0000" BottomMargin="-24.0000" FontSize="20" LabelText="风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="241.0000" Y="26.0000" />
+                            <AnchorPoint />
+                            <Position X="5.0000" Y="-24.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0250" Y="-0.8000" />
+                            <PreSize X="1.2050" Y="0.8667" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
                             <OutlineColor A="255" R="255" G="0" B="0" />
                             <ShadowColor A="255" R="110" G="110" B="110" />
                           </AbstractNodeData>
                         </Children>
-                        <AnchorPoint ScaleX="1.0000" />
-                        <Position />
+                        <AnchorPoint />
+                        <Position X="-259.9800" Y="7.4373" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition />
+                        <PrePosition X="-25.9980" Y="0.7437" />
+                        <PreSize X="20.0000" Y="3.0000" />
+                        <SingleColor A="255" R="26" G="26" B="26" />
+                        <FirstColor A="255" R="150" G="200" B="255" />
+                        <EndColor A="255" R="255" G="255" B="255" />
+                        <ColorVector ScaleY="1.0000" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="txtPnl1" ActionTag="513322290" VisibleForFrame="False" Tag="925" IconVisible="False" LeftMargin="-259.9772" RightMargin="69.9772" TopMargin="-10.0000" BottomMargin="-10.0000" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="200.0000" Y="30.0000" />
+                        <Children>
+                          <AbstractNodeData Name="chatbg1" ActionTag="103870394" Tag="926" IconVisible="False" LeftMargin="-17.0000" RightMargin="-83.0000" TopMargin="-16.5000" BottomMargin="-40.5000" Scale9Enable="True" LeftEage="57" RightEage="80" TopEage="31" BottomEage="25" Scale9OriginX="57" Scale9OriginY="31" Scale9Width="22" Scale9Height="11" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="87.0000" />
+                            <AnchorPoint ScaleX="0.5000" />
+                            <Position X="133.0000" Y="-40.5000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.6650" Y="-1.3500" />
+                            <PreSize X="1.5000" Y="2.9000" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg2.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt1" ActionTag="1635442732" Tag="927" RotationSkewX="1.0000" RotationSkewY="1.0000" IconVisible="False" LeftMargin="5.8744" RightMargin="-52.3590" TopMargin="14.9000" BottomMargin="-26.2812" IsCustomSize="True" FontSize="20" LabelText="风水轮流转，底裤都输光了风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="246.4846" Y="41.3812" />
+                            <AnchorPoint ScaleY="1.0000" />
+                            <Position X="5.8744" Y="15.1000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0294" Y="0.5033" />
+                            <PreSize X="1.2324" Y="1.3794" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                            <OutlineColor A="255" R="255" G="0" B="0" />
+                            <ShadowColor A="255" R="110" G="110" B="110" />
+                          </AbstractNodeData>
+                        </Children>
+                        <AnchorPoint />
+                        <Position X="-259.9772" Y="-10.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="-25.9977" Y="-1.0000" />
                         <PreSize X="20.0000" Y="3.0000" />
                         <SingleColor A="255" R="26" G="26" B="26" />
                         <FirstColor A="255" R="150" G="200" B="255" />
@@ -4724,33 +4964,81 @@
                   <AbstractNodeData Name="chatFrame" ActionTag="1111331371" VisibleForFrame="False" Tag="213" IconVisible="False" LeftMargin="37.2944" RightMargin="1088.7056" TopMargin="140.8250" BottomMargin="149.1750" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="10.0000" Y="10.0000" />
                     <Children>
-                      <AbstractNodeData Name="txtPnl" CanEdit="False" ActionTag="-505328192" VisibleForFrame="False" Tag="216" IconVisible="False" RightMargin="-190.0000" TopMargin="-20.0000" ClipAble="False" BackColorAlpha="128" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                      <AbstractNodeData Name="txtPnl" ActionTag="-505328192" VisibleForFrame="False" Tag="216" IconVisible="False" LeftMargin="111.5658" RightMargin="-301.5658" TopMargin="-14.6000" BottomMargin="-5.4000" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                         <Size X="200.0000" Y="30.0000" />
                         <Children>
-                          <AbstractNodeData Name="txt" CanEdit="False" ActionTag="1716128558" Tag="214" IconVisible="False" LeftMargin="5.0000" RightMargin="195.0000" TopMargin="25.0000" BottomMargin="5.0000" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                            <Size X="0.0000" Y="0.0000" />
+                          <AbstractNodeData Name="chatbg" ActionTag="915636035" Tag="582" IconVisible="False" LeftMargin="-29.0000" RightMargin="-71.0000" TopMargin="-11.5000" BottomMargin="-25.5000" Scale9Enable="True" LeftEage="65" RightEage="52" TopEage="25" BottomEage="12" Scale9OriginX="65" Scale9OriginY="25" Scale9Width="42" Scale9Height="30" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="67.0000" />
+                            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                            <Position X="121.0000" Y="8.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.6050" Y="0.2667" />
+                            <PreSize X="1.5000" Y="2.2333" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg1.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt" ActionTag="1716128558" Tag="214" IconVisible="False" LeftMargin="5.0000" RightMargin="-46.0000" TopMargin="-1.0000" BottomMargin="5.0000" FontSize="20" LabelText="风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="241.0000" Y="26.0000" />
                             <AnchorPoint />
                             <Position X="5.0000" Y="5.0000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.0250" Y="0.1667" />
-                            <PreSize X="0.0000" Y="0.0000" />
+                            <PreSize X="1.2050" Y="0.8667" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
                             <OutlineColor A="255" R="255" G="0" B="0" />
                             <ShadowColor A="255" R="110" G="110" B="110" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint />
-                        <Position />
+                        <Position X="111.5658" Y="-5.4000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition />
+                        <PrePosition X="11.1566" Y="-0.5400" />
                         <PreSize X="20.0000" Y="3.0000" />
                         <SingleColor A="255" R="26" G="26" B="26" />
                         <FirstColor A="255" R="150" G="200" B="255" />
                         <EndColor A="255" R="255" G="255" B="255" />
                         <ColorVector ScaleY="1.0000" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="emoji" CanEdit="False" ActionTag="-624683683" VisibleForFrame="False" Tag="215" IconVisible="False" LeftMargin="-5.9883" RightMargin="-84.0117" TopMargin="19.2734" BottomMargin="-109.2734" LeftEage="42" RightEage="42" TopEage="42" BottomEage="42" Scale9OriginX="40" Scale9OriginY="42" Scale9Width="2" Scale9Height="1" ctype="ImageViewObjectData">
+                      <AbstractNodeData Name="txtPnl1" ActionTag="1621260956" VisibleForFrame="False" Tag="751" IconVisible="False" LeftMargin="111.5659" RightMargin="-301.5659" TopMargin="-13.0000" BottomMargin="-7.0000" ClipAble="False" BackColorAlpha="128" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                        <Size X="200.0000" Y="30.0000" />
+                        <Children>
+                          <AbstractNodeData Name="chatbg1" ActionTag="-826285970" Tag="752" IconVisible="False" LeftMargin="-29.0000" RightMargin="-71.0000" TopMargin="-32.5000" BottomMargin="-24.5000" Scale9Enable="True" LeftEage="73" RightEage="40" TopEage="26" BottomEage="39" Scale9OriginX="73" Scale9OriginY="26" Scale9Width="46" Scale9Height="2" ctype="ImageViewObjectData">
+                            <Size X="300.0000" Y="87.0000" />
+                            <AnchorPoint ScaleX="0.5000" />
+                            <Position X="121.0000" Y="-24.5000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.6050" Y="-0.8167" />
+                            <PreSize X="1.5000" Y="2.9000" />
+                            <FileData Type="Normal" Path="views/xydesk/chatbg1.png" Plist="" />
+                          </AbstractNodeData>
+                          <AbstractNodeData Name="txt1" ActionTag="-573861443" Tag="753" RotationSkewX="1.0000" RotationSkewY="1.0000" IconVisible="False" LeftMargin="5.8744" RightMargin="-52.3590" TopMargin="-17.0967" BottomMargin="5.7155" IsCustomSize="True" FontSize="20" LabelText="风水轮流转，底裤都输光了风水轮流转，底裤都输光了" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="246.4846" Y="41.3812" />
+                            <AnchorPoint ScaleY="1.0000" />
+                            <Position X="5.8744" Y="47.0967" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                            <CColor A="255" R="255" G="255" B="255" />
+                            <PrePosition X="0.0294" Y="1.5699" />
+                            <PreSize X="1.2324" Y="1.3794" />
+                            <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                            <OutlineColor A="255" R="255" G="0" B="0" />
+                            <ShadowColor A="255" R="110" G="110" B="110" />
+                          </AbstractNodeData>
+                        </Children>
+                        <AnchorPoint />
+                        <Position X="111.5659" Y="-7.0000" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="11.1566" Y="-0.7000" />
+                        <PreSize X="20.0000" Y="3.0000" />
+                        <SingleColor A="255" R="26" G="26" B="26" />
+                        <FirstColor A="255" R="150" G="200" B="255" />
+                        <EndColor A="255" R="255" G="255" B="255" />
+                        <ColorVector ScaleY="1.0000" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="emoji" ActionTag="-624683683" VisibleForFrame="False" Tag="215" IconVisible="False" LeftMargin="-5.9883" RightMargin="-84.0117" TopMargin="19.2734" BottomMargin="-109.2734" LeftEage="42" RightEage="42" TopEage="42" BottomEage="42" Scale9OriginX="40" Scale9OriginY="42" Scale9Width="2" Scale9Height="1" ctype="ImageViewObjectData">
                         <Size X="100.0000" Y="100.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="44.0117" Y="-59.2734" />
@@ -4947,7 +5235,7 @@
                     <PreSize X="0.3961" Y="1.0156" />
                     <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="close" ActionTag="405350257" VisibleForFrame="False" CallBackType="Click" CallBackName="clickCloseCuoPai" Tag="187" IconVisible="False" LeftMargin="1048.0835" RightMargin="6.9165" TopMargin="9.2365" BottomMargin="549.7635" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="4" BottomEage="4" Scale9OriginX="15" Scale9OriginY="4" Scale9Width="16" Scale9Height="28" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="close" ActionTag="405350257" VisibleForFrame="False" CallBackType="Click" CallBackName="clickCloseCuoPai" Tag="187" IconVisible="False" LeftMargin="1048.0835" RightMargin="6.9165" TopMargin="9.2365" BottomMargin="549.7635" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="4" BottomEage="4" Scale9OriginX="15" Scale9OriginY="4" Scale9Width="51" Scale9Height="73" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="81.0000" Y="81.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="1088.5835" Y="590.2635" />
@@ -4957,7 +5245,7 @@
                     <PreSize X="0.0713" Y="0.1266" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                    <NormalFileData Type="Default" Path="Default/Button_Normal.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="views/nysdesk/close.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -4986,73 +5274,18 @@
                     <PreSize X="0.0713" Y="0.1266" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="views/nysdesk/close2.png" Plist="" />
+                    <NormalFileData Type="Normal" Path="views/nysdesk/close.png" Plist="" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="card" ActionTag="-1552109720" Tag="279" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="284.0000" RightMargin="284.0000" TopMargin="320.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-                    <Size X="568.0000" Y="320.0000" />
+                  <AbstractNodeData Name="card" ActionTag="-1552109720" Tag="279" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="323.0000" RightMargin="323.0000" TopMargin="160.0000" BottomMargin="160.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                    <Size X="490.0000" Y="320.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="568.0000" Y="160.0000" />
+                    <Position X="568.0000" Y="320.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="0.2500" />
-                    <PreSize X="0.5000" Y="0.5000" />
-                    <SingleColor A="255" R="150" G="200" B="255" />
-                    <FirstColor A="255" R="150" G="200" B="255" />
-                    <EndColor A="255" R="255" G="255" B="255" />
-                    <ColorVector ScaleY="1.0000" />
-                  </AbstractNodeData>
-                  <AbstractNodeData Name="cards" ActionTag="1014591149" Tag="585" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="326.0000" RightMargin="180.0000" TopMargin="-36.4000" BottomMargin="486.4000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-                    <Size X="630.0000" Y="190.0000" />
-                    <Children>
-                      <AbstractNodeData Name="card4" CanEdit="False" ActionTag="863953689" Tag="587" IconVisible="False" LeftMargin="372.3390" RightMargin="131.6610" TopMargin="12.5000" BottomMargin="2.5000" TouchEnable="True" LeftEage="41" RightEage="41" TopEage="57" BottomEage="57" Scale9OriginX="41" Scale9OriginY="54" Scale9Width="1" Scale9Height="3" ctype="ImageViewObjectData">
-                        <Size X="126.0000" Y="175.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="435.3390" Y="90.0000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.6910" Y="0.4737" />
-                        <PreSize X="0.2000" Y="0.9211" />
-                        <FileData Type="Normal" Path="views/xydesk/cards/xx.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="card3" CanEdit="False" ActionTag="1702701797" Tag="588" IconVisible="False" LeftMargin="252.7963" RightMargin="251.2037" TopMargin="12.5000" BottomMargin="2.5000" TouchEnable="True" LeftEage="41" RightEage="41" TopEage="57" BottomEage="57" Scale9OriginX="41" Scale9OriginY="54" Scale9Width="1" Scale9Height="3" ctype="ImageViewObjectData">
-                        <Size X="126.0000" Y="175.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="315.7963" Y="90.0000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.5013" Y="0.4737" />
-                        <PreSize X="0.2000" Y="0.9211" />
-                        <FileData Type="Normal" Path="views/xydesk/cards/xx.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="card2" CanEdit="False" ActionTag="1895082765" Tag="589" IconVisible="False" LeftMargin="133.8832" RightMargin="370.1168" TopMargin="12.5000" BottomMargin="2.5000" TouchEnable="True" LeftEage="41" RightEage="41" TopEage="57" BottomEage="57" Scale9OriginX="41" Scale9OriginY="54" Scale9Width="1" Scale9Height="3" ctype="ImageViewObjectData">
-                        <Size X="126.0000" Y="175.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="196.8832" Y="90.0000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.3125" Y="0.4737" />
-                        <PreSize X="0.2000" Y="0.9211" />
-                        <FileData Type="Normal" Path="views/xydesk/cards/xx.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="card1" CanEdit="False" ActionTag="671135341" Tag="590" IconVisible="False" LeftMargin="14.3525" RightMargin="489.6475" TopMargin="12.5000" BottomMargin="2.5000" TouchEnable="True" LeftEage="41" RightEage="41" TopEage="57" BottomEage="57" Scale9OriginX="41" Scale9OriginY="54" Scale9Width="1" Scale9Height="3" ctype="ImageViewObjectData">
-                        <Size X="126.0000" Y="175.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="77.3525" Y="90.0000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.1228" Y="0.4737" />
-                        <PreSize X="0.2000" Y="0.9211" />
-                        <FileData Type="Normal" Path="views/xydesk/cards/xx.png" Plist="" />
-                      </AbstractNodeData>
-                    </Children>
-                    <AnchorPoint />
-                    <Position X="326.0000" Y="486.4000" />
-                    <Scale ScaleX="0.8000" ScaleY="0.8000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.2870" Y="0.7600" />
-                    <PreSize X="0.5546" Y="0.2969" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.4313" Y="0.5000" />
                     <SingleColor A="255" R="150" G="200" B="255" />
                     <FirstColor A="255" R="150" G="200" B="255" />
                     <EndColor A="255" R="255" G="255" B="255" />
@@ -5080,6 +5313,21 @@
                 <PreSize X="0.3521" Y="0.0703" />
                 <FileData Type="Normal" Path="views/xydesk/textBg.png" Plist="" />
               </AbstractNodeData>
+              <AbstractNodeData Name="playbackBtn" ActionTag="-1234554124" CallBackType="Click" CallBackName="clickPlaybackBtn" Tag="580" IconVisible="False" LeftMargin="1046.1919" RightMargin="7.8081" TopMargin="157.6712" BottomMargin="396.3288" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="52" Scale9Height="64" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="82.0000" Y="86.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1087.1919" Y="439.3288" />
+                <Scale ScaleX="0.8500" ScaleY="0.8500" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9570" Y="0.6865" />
+                <PreSize X="0.0722" Y="0.1344" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+                <PressedFileData Type="Normal" Path="views/xydesk/playback.png" Plist="" />
+                <NormalFileData Type="Normal" Path="views/xydesk/playback.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
               <AbstractNodeData Name="statusText" ActionTag="-922398809" VisibleForFrame="False" Tag="375" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="465.5000" RightMargin="465.5000" TopMargin="370.5000" BottomMargin="230.5000" FontSize="30" LabelText="等待其他玩家..." HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="1.0000" ShadowOffsetY="-1.0000" ShadowEnabled="True" ctype="TextObjectData">
                 <Size X="205.0000" Y="39.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -5088,7 +5336,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.3906" />
                 <PreSize X="0.1805" Y="0.0609" />
-                <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                 <OutlineColor A="255" R="26" G="26" B="26" />
                 <ShadowColor A="255" R="45" G="45" B="45" />
               </AbstractNodeData>
@@ -5377,7 +5625,7 @@
               <AbstractNodeData Name="gameSetting" ActionTag="-1210503155" VisibleForFrame="False" Tag="209" IconVisible="False" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="1136.0000" Y="640.0000" />
                 <Children>
-                  <AbstractNodeData Name="bg" ActionTag="-300481420" VisibleForFrame="False" CallBackName="clickOut" Tag="213" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="757.0129" RightMargin="0.9871" TouchEnable="True" LeftEage="5" RightEage="5" TopEage="5" BottomEage="5" Scale9OriginX="5" Scale9OriginY="5" Scale9Width="368" Scale9Height="630" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="bg" ActionTag="-300481420" CallBackName="clickOut" Tag="213" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="757.0129" RightMargin="0.9871" TouchEnable="True" LeftEage="5" RightEage="5" TopEage="5" BottomEage="5" Scale9OriginX="5" Scale9OriginY="5" Scale9Width="368" Scale9Height="630" ctype="ImageViewObjectData">
                     <Size X="378.0000" Y="640.0000" />
                     <Children>
                       <AbstractNodeData Name="setting" ActionTag="357563718" CallBackType="Click" CallBackName="clickGameSetting" Tag="214" IconVisible="False" LeftMargin="136.1441" RightMargin="9.8559" TopMargin="335.5000" BottomMargin="235.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="4" BottomEage="4" Scale9OriginX="15" Scale9OriginY="4" Scale9Width="202" Scale9Height="61" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -5422,6 +5670,20 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
+                      <AbstractNodeData Name="watcher" ActionTag="-751955407" CallBackType="Click" CallBackName="clickWatcherList" Tag="584" IconVisible="False" LeftMargin="137.9300" RightMargin="8.0700" TopMargin="425.1772" BottomMargin="145.8228" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="4" BottomEage="4" Scale9OriginX="15" Scale9OriginY="4" Scale9Width="202" Scale9Height="61" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                        <Size X="232.0000" Y="69.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="253.9300" Y="180.3228" />
+                        <Scale ScaleX="0.8000" ScaleY="0.8000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.6718" Y="0.2818" />
+                        <PreSize X="0.6138" Y="0.1078" />
+                        <TextColor A="255" R="65" G="65" B="70" />
+                        <PressedFileData Type="Normal" Path="views/xydesk/pgz.png" Plist="" />
+                        <NormalFileData Type="Normal" Path="views/xydesk/pgz1.png" Plist="" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
                       <AbstractNodeData Name="blankView" ActionTag="836186817" Alpha="0" CallBackType="Click" CallBackName="clickOut" Tag="339" IconVisible="False" LeftMargin="-650.1251" RightMargin="270.1251" TopMargin="-2.0416" BottomMargin="2.0416" TouchEnable="True" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
                         <Size X="758.0000" Y="640.0000" />
                         <AnchorPoint ScaleX="1.0000" />
@@ -5432,14 +5694,14 @@
                         <PreSize X="2.0053" Y="1.0000" />
                         <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="blankView_0" ActionTag="-138832204" Alpha="0" CallBackType="Click" CallBackName="clickOut" Tag="374" IconVisible="False" LeftMargin="143.5893" RightMargin="4.4107" TopMargin="405.7636" BottomMargin="4.2364" TouchEnable="True" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
-                        <Size X="230.0000" Y="230.0000" />
+                      <AbstractNodeData Name="blankView_0" ActionTag="-138832204" Alpha="0" CallBackType="Click" CallBackName="clickOut" Tag="374" IconVisible="False" LeftMargin="143.5900" RightMargin="4.4100" TopMargin="510.3393" BottomMargin="4.2364" TouchEnable="True" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+                        <Size X="230.0000" Y="125.4243" />
                         <AnchorPoint ScaleX="1.0000" />
-                        <Position X="373.5893" Y="4.2364" />
+                        <Position X="373.5900" Y="4.2364" />
                         <Scale ScaleX="1.1420" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.9883" Y="0.0066" />
-                        <PreSize X="0.6085" Y="0.3594" />
+                        <PreSize X="0.6085" Y="0.1960" />
                         <FileData Type="Default" Path="Default/ImageFile.png" Plist="" />
                       </AbstractNodeData>
                     </Children>
@@ -5623,186 +5885,141 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="info" ActionTag="105735522" VisibleForFrame="False" Tag="356" IconVisible="False" LeftMargin="179.7921" RightMargin="143.2079" TopMargin="115.0000" BottomMargin="53.0000" Scale9Enable="True" LeftEage="19" RightEage="19" TopEage="19" BottomEage="19" Scale9OriginX="19" Scale9OriginY="19" Scale9Width="20" Scale9Height="20" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="info" ActionTag="105735522" VisibleForFrame="False" Tag="356" IconVisible="False" LeftMargin="179.7921" RightMargin="143.2079" TopMargin="84.0000" BottomMargin="84.0000" LeftEage="219" RightEage="219" TopEage="124" BottomEage="124" Scale9OriginX="219" Scale9OriginY="124" Scale9Width="375" Scale9Height="224" ctype="ImageViewObjectData">
                     <Size X="813.0000" Y="472.0000" />
                     <Children>
-                      <AbstractNodeData Name="img1" ActionTag="1659755917" Tag="1756" IconVisible="False" LeftMargin="23.2300" RightMargin="409.7700" TopMargin="21.9500" BottomMargin="365.0000" Scale9Enable="True" LeftEage="126" RightEage="105" TopEage="34" BottomEage="34" Scale9OriginX="126" Scale9OriginY="34" Scale9Width="295" Scale9Height="36" ctype="ImageViewObjectData">
-                        <Size X="380.0000" Y="85.0500" />
+                      <AbstractNodeData Name="wanfa" ActionTag="-1466448355" VisibleForFrame="False" Tag="357" IconVisible="False" LeftMargin="79.3100" RightMargin="703.6900" TopMargin="142.0358" BottomMargin="314.9642" FontSize="15" LabelText="玩法" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="30.0000" Y="15.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="94.3100" Y="322.4642" />
+                        <Scale ScaleX="2.0000" ScaleY="2.0000" />
+                        <CColor A="255" R="145" G="13" B="9" />
+                        <PrePosition X="0.1160" Y="0.6832" />
+                        <PreSize X="0.0369" Y="0.0318" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="difen" ActionTag="-1048910740" VisibleForFrame="False" Tag="358" IconVisible="False" LeftMargin="382.4201" RightMargin="400.5799" TopMargin="142.0397" BottomMargin="314.9603" FontSize="15" LabelText="底分" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="30.0000" Y="15.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="397.4201" Y="322.4603" />
+                        <Scale ScaleX="2.0000" ScaleY="2.0000" />
+                        <CColor A="255" R="145" G="13" B="9" />
+                        <PrePosition X="0.4888" Y="0.6832" />
+                        <PreSize X="0.0369" Y="0.0318" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="beiRule" ActionTag="-853664613" VisibleForFrame="False" Tag="359" IconVisible="False" LeftMargin="72.1124" RightMargin="680.8876" TopMargin="215.3646" BottomMargin="241.6354" FontSize="15" LabelText="翻倍规则" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="60.0000" Y="15.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="102.1124" Y="249.1354" />
+                        <Scale ScaleX="2.0000" ScaleY="2.0000" />
+                        <CColor A="255" R="145" G="13" B="9" />
+                        <PrePosition X="0.1256" Y="0.5278" />
+                        <PreSize X="0.0738" Y="0.0318" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="roomRule" ActionTag="1299854432" VisibleForFrame="False" Tag="360" IconVisible="False" LeftMargin="72.1100" RightMargin="680.8900" TopMargin="294.4515" BottomMargin="162.5485" FontSize="15" LabelText="房间规则" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="60.0000" Y="15.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="102.1100" Y="170.0485" />
+                        <Scale ScaleX="2.0000" ScaleY="2.0000" />
+                        <CColor A="255" R="145" G="13" B="9" />
+                        <PrePosition X="0.1256" Y="0.3603" />
+                        <PreSize X="0.0738" Y="0.0318" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Twanfa" ActionTag="-2058101621" VisibleForFrame="False" Tag="361" IconVisible="False" LeftMargin="72.1100" RightMargin="680.8900" TopMargin="394.8645" BottomMargin="62.1355" FontSize="15" LabelText="特殊玩法" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="60.0000" Y="15.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="102.1100" Y="69.6355" />
+                        <Scale ScaleX="2.0000" ScaleY="2.0000" />
+                        <CColor A="255" R="145" G="13" B="9" />
+                        <PrePosition X="0.1256" Y="0.1475" />
+                        <PreSize X="0.0738" Y="0.0318" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="text_wanfa" ActionTag="1983577583" Tag="364" IconVisible="False" LeftMargin="200.1832" RightMargin="499.8168" TopMargin="112.6359" BottomMargin="322.3641" FontSize="28" LabelText="牛牛上庄" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="113.0000" Y="37.0000" />
                         <AnchorPoint />
-                        <Position X="23.2300" Y="365.0000" />
+                        <Position X="200.1832" Y="322.3641" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.0286" Y="0.7733" />
-                        <PreSize X="0.4674" Y="0.1802" />
-                        <FileData Type="Normal" Path="views/nysdesk/665.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="img2" ActionTag="804353526" Tag="1757" IconVisible="False" LeftMargin="407.9456" RightMargin="25.0544" TopMargin="21.9500" BottomMargin="365.0000" Scale9Enable="True" RightEage="42" TopEage="34" BottomEage="34" Scale9OriginY="34" Scale9Width="484" Scale9Height="36" ctype="ImageViewObjectData">
-                        <Size X="380.0000" Y="85.0500" />
-                        <AnchorPoint ScaleX="1.0000" />
-                        <Position X="787.9456" Y="365.0000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.9692" Y="0.7733" />
-                        <PreSize X="0.4674" Y="0.1802" />
-                        <FileData Type="Normal" Path="views/nysdesk/665.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="img3" ActionTag="-939982963" Tag="1758" IconVisible="False" LeftMargin="23.2349" RightMargin="-164.4486" TopMargin="116.5500" BottomMargin="251.4500" Scale9Enable="True" LeftEage="363" RightEage="105" TopEage="35" BottomEage="42" Scale9OriginX="363" Scale9OriginY="35" Scale9Width="58" Scale9Height="27" ctype="ImageViewObjectData">
-                        <Size X="954.2137" Y="104.0000" />
-                        <AnchorPoint ScaleY="0.5000" />
-                        <Position X="23.2349" Y="303.4500" />
-                        <Scale ScaleX="0.8000" ScaleY="0.8000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.0286" Y="0.6429" />
-                        <PreSize X="1.1737" Y="0.2203" />
-                        <FileData Type="Normal" Path="views/nysdesk/665.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="img4" ActionTag="-1450946361" Tag="1759" IconVisible="False" LeftMargin="23.2349" RightMargin="25.0551" TopMargin="227.7000" BottomMargin="140.3000" Scale9Enable="True" LeftEage="352" RightEage="68" TopEage="34" BottomEage="34" Scale9OriginX="352" Scale9OriginY="34" Scale9Width="106" Scale9Height="36" ctype="ImageViewObjectData">
-                        <Size X="764.7100" Y="104.0000" />
-                        <AnchorPoint ScaleY="0.5000" />
-                        <Position X="23.2349" Y="192.3000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.0286" Y="0.4074" />
-                        <PreSize X="0.9406" Y="0.2203" />
-                        <FileData Type="Normal" Path="views/nysdesk/665.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="img5" ActionTag="1760650703" Tag="1760" IconVisible="False" LeftMargin="23.2349" RightMargin="25.0551" TopMargin="349.6400" BottomMargin="18.3600" Scale9Enable="True" LeftEage="400" RightEage="84" TopEage="24" BottomEage="24" Scale9OriginX="400" Scale9OriginY="24" Scale9Width="42" Scale9Height="56" ctype="ImageViewObjectData">
-                        <Size X="764.7100" Y="104.0000" />
-                        <AnchorPoint ScaleY="0.5000" />
-                        <Position X="23.2349" Y="70.3600" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.0286" Y="0.1491" />
-                        <PreSize X="0.9406" Y="0.2203" />
-                        <FileData Type="Normal" Path="views/nysdesk/665.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="Image1" ActionTag="185762229" Tag="1764" IconVisible="False" LeftMargin="84.0600" RightMargin="677.9400" TopMargin="51.1516" BottomMargin="395.8484" LeftEage="16" RightEage="16" TopEage="8" BottomEage="8" Scale9OriginX="16" Scale9OriginY="8" Scale9Width="19" Scale9Height="9" ctype="ImageViewObjectData">
-                        <Size X="51.0000" Y="25.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="109.5600" Y="408.3484" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.1348" Y="0.8651" />
-                        <PreSize X="0.0627" Y="0.0530" />
-                        <FileData Type="Normal" Path="views/nysdesk/ID_24_250.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="Image2" ActionTag="157302813" Tag="1763" IconVisible="False" LeftMargin="459.0500" RightMargin="303.9500" TopMargin="50.9760" BottomMargin="397.0240" LeftEage="16" RightEage="16" TopEage="8" BottomEage="8" Scale9OriginX="16" Scale9OriginY="8" Scale9Width="18" Scale9Height="8" ctype="ImageViewObjectData">
-                        <Size X="50.0000" Y="24.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="484.0500" Y="409.0240" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.5954" Y="0.8666" />
-                        <PreSize X="0.0615" Y="0.0508" />
-                        <FileData Type="Normal" Path="views/nysdesk/ID_24_138.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="Image3" ActionTag="264682473" Tag="1762" IconVisible="False" LeftMargin="60.4500" RightMargin="650.5500" TopMargin="155.6000" BottomMargin="291.4000" LeftEage="33" RightEage="33" TopEage="8" BottomEage="8" Scale9OriginX="33" Scale9OriginY="8" Scale9Width="36" Scale9Height="9" ctype="ImageViewObjectData">
-                        <Size X="102.0000" Y="25.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="111.4500" Y="303.9000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.1371" Y="0.6439" />
-                        <PreSize X="0.1255" Y="0.0530" />
-                        <FileData Type="Normal" Path="views/nysdesk/ID_24_235.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="Image4" ActionTag="-1987780954" Tag="1761" IconVisible="False" LeftMargin="71.8900" RightMargin="639.1100" TopMargin="265.6600" BottomMargin="181.3400" LeftEage="33" RightEage="33" TopEage="8" BottomEage="8" Scale9OriginX="33" Scale9OriginY="8" Scale9Width="36" Scale9Height="9" ctype="ImageViewObjectData">
-                        <Size X="102.0000" Y="25.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="122.8900" Y="193.8400" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.1512" Y="0.4107" />
-                        <PreSize X="0.1255" Y="0.0530" />
-                        <FileData Type="Normal" Path="views/nysdesk/666.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="Image5" ActionTag="-612962796" Tag="1765" IconVisible="False" LeftMargin="71.8900" RightMargin="637.1100" TopMargin="388.5000" BottomMargin="58.5000" LeftEage="33" RightEage="33" TopEage="8" BottomEage="8" Scale9OriginX="33" Scale9OriginY="8" Scale9Width="38" Scale9Height="9" ctype="ImageViewObjectData">
-                        <Size X="104.0000" Y="25.0000" />
-                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="123.8900" Y="71.0000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.1524" Y="0.1504" />
-                        <PreSize X="0.1279" Y="0.0530" />
-                        <FileData Type="Normal" Path="views/nysdesk/ID_24_77.png" Plist="" />
-                      </AbstractNodeData>
-                      <AbstractNodeData Name="text_wanfa" ActionTag="1983577583" Tag="364" IconVisible="False" LeftMargin="198.1800" RightMargin="421.2809" TopMargin="45.6400" BottomMargin="389.3600" IsCustomSize="True" FontSize="28" LabelText="牛牛上庄" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="193.5391" Y="37.0000" />
-                        <AnchorPoint ScaleY="0.5000" />
-                        <Position X="198.1800" Y="407.8600" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.2438" Y="0.8641" />
-                        <PreSize X="0.2381" Y="0.0784" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <CColor A="255" R="184" G="107" B="58" />
+                        <PrePosition X="0.2462" Y="0.6830" />
+                        <PreSize X="0.1390" Y="0.0784" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="text_difen" ActionTag="891652154" Tag="363" IconVisible="False" LeftMargin="617.4160" RightMargin="45.1986" TopMargin="45.6400" BottomMargin="389.3600" IsCustomSize="True" FontSize="28" LabelText="1/2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="150.3854" Y="37.0000" />
-                        <AnchorPoint ScaleY="0.5000" />
-                        <Position X="617.4160" Y="407.8600" />
+                      <AbstractNodeData Name="text_difen" ActionTag="891652154" Tag="363" IconVisible="False" LeftMargin="489.4992" RightMargin="280.5008" TopMargin="112.6360" BottomMargin="322.3640" FontSize="28" LabelText="1/2" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="43.0000" Y="37.0000" />
+                        <AnchorPoint />
+                        <Position X="489.4992" Y="322.3640" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.7594" Y="0.8641" />
-                        <PreSize X="0.1850" Y="0.0784" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <CColor A="255" R="184" G="107" B="58" />
+                        <PrePosition X="0.6021" Y="0.6830" />
+                        <PreSize X="0.0529" Y="0.0784" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="text_beiRule" ActionTag="-1968783919" Tag="362" IconVisible="False" LeftMargin="200.1900" RightMargin="35.1623" TopMargin="149.2200" BottomMargin="285.7800" IsCustomSize="True" FontSize="28" LabelText="牛牛x4倍 牛九x3倍 牛八x2倍 牛七x2倍" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="577.6477" Y="37.0000" />
-                        <AnchorPoint ScaleY="0.5000" />
-                        <Position X="200.1900" Y="304.2800" />
+                      <AbstractNodeData Name="text_beiRule" ActionTag="-1968783919" Tag="362" IconVisible="False" LeftMargin="200.1859" RightMargin="137.8141" TopMargin="176.2177" BottomMargin="258.7823" FontSize="28" LabelText="牛牛x4倍 牛九x3倍 牛八x2倍 牛七x2倍" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="475.0000" Y="37.0000" />
+                        <AnchorPoint />
+                        <Position X="200.1859" Y="258.7823" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.2462" Y="0.6447" />
-                        <PreSize X="0.7105" Y="0.0784" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <CColor A="255" R="184" G="107" B="58" />
+                        <PrePosition X="0.2462" Y="0.5483" />
+                        <PreSize X="0.5843" Y="0.0784" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="text_roomRule" ActionTag="503830501" Tag="360" IconVisible="False" LeftMargin="243.1900" RightMargin="32.2086" TopMargin="235.0385" BottomMargin="146.4016" IsCustomSize="True" FontSize="28" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="537.6014" Y="90.5599" />
-                        <AnchorPoint ScaleY="1.0000" />
-                        <Position X="243.1900" Y="236.9615" />
+                      <AbstractNodeData Name="text_roomRule" ActionTag="503830501" Tag="360" IconVisible="False" LeftMargin="200.1859" RightMargin="120.8141" TopMargin="235.0385" BottomMargin="199.9615" FontSize="28" LabelText="房主支付 闲家推注 游戏开始后禁止加入" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="492.0000" Y="37.0000" />
+                        <AnchorPoint />
+                        <Position X="200.1859" Y="199.9615" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.2991" Y="0.5020" />
-                        <PreSize X="0.6613" Y="0.1919" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <CColor A="255" R="184" G="107" B="58" />
+                        <PrePosition X="0.2462" Y="0.4236" />
+                        <PreSize X="0.6052" Y="0.0784" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="text_Twanfa" ActionTag="-301520314" Tag="361" IconVisible="False" LeftMargin="240.1900" RightMargin="30.8100" TopMargin="357.2700" BottomMargin="20.8789" IsCustomSize="True" FontSize="28" LabelText="五花牛（5倍）炸弹牛（6倍）五小牛（8倍）" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="542.0000" Y="93.8511" />
-                        <AnchorPoint ScaleY="1.0000" />
-                        <Position X="240.1900" Y="114.7300" />
+                      <AbstractNodeData Name="text_Twanfa" ActionTag="-301520314" Tag="361" IconVisible="False" LeftMargin="200.1860" RightMargin="70.8140" TopMargin="338.2688" BottomMargin="59.7312" FontSize="28" LabelText="&#xA;五花牛（5倍）炸弹牛（6倍）五小牛（8倍）" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="542.0000" Y="74.0000" />
+                        <AnchorPoint />
+                        <Position X="200.1860" Y="59.7312" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.2954" Y="0.2431" />
-                        <PreSize X="0.6667" Y="0.1988" />
-                        <FontResource Type="Normal" Path="views/font/fangzheng.ttf" Plist="" />
+                        <CColor A="255" R="184" G="107" B="58" />
+                        <PrePosition X="0.2462" Y="0.1265" />
+                        <PreSize X="0.6667" Y="0.1568" />
+                        <FontResource Type="Normal" Path="views/font/Droid Sans Fallback.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="586.2921" Y="289.0000" />
+                    <Position X="586.2921" Y="320.0000" />
                     <Scale ScaleX="0.9000" ScaleY="0.9000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5161" Y="0.4516" />
+                    <PrePosition X="0.5161" Y="0.5000" />
                     <PreSize X="0.7157" Y="0.7375" />
                     <FileData Type="Normal" Path="views/nysdesk/roomInfo.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="close" ActionTag="-161638433" VisibleForFrame="False" CallBackType="Click" CallBackName="clickInfoOut" Tag="346" IconVisible="False" LeftMargin="913.8500" RightMargin="153.1500" TopMargin="110.2800" BottomMargin="459.7200" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="39" Scale9Height="48" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                    <Size X="69.0000" Y="70.0000" />
+                  <AbstractNodeData Name="close" ActionTag="-161638433" VisibleForFrame="False" CallBackType="Click" CallBackName="clickInfoOut" Tag="346" IconVisible="False" LeftMargin="897.8511" RightMargin="157.1489" TopMargin="131.7843" BottomMargin="427.2157" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="51" Scale9Height="59" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                    <Size X="81.0000" Y="81.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="948.3500" Y="494.7200" />
+                    <Position X="938.3511" Y="467.7157" />
                     <Scale ScaleX="0.8000" ScaleY="0.8000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.8348" Y="0.7730" />
-                    <PreSize X="0.0607" Y="0.1094" />
+                    <PrePosition X="0.8260" Y="0.7308" />
+                    <PreSize X="0.0713" Y="0.1266" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
                     <NormalFileData Type="Normal" Path="views/nysdesk/close.png" Plist="" />

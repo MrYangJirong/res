@@ -104,7 +104,6 @@
             <Image Name="close.png" />
             <Image Name="kuang.png" />
             <Image Name="menu_Rule.jpg" />
-            <Image Name="rule.png" />
             <Image Name="title.png" />
           </Folder>
           <Project Name="WanFaView.csd" Type="Node" />

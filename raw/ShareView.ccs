@@ -74,6 +74,8 @@
             <Image Name="text.png" />
           </Folder>
           <Folder Name="font">
+            <TTF Name="Arial.ttf" />
+            <TTF Name="Droid Sans Fallback.ttf" />
             <TTF Name="fangzheng.ttf" />
             <TTF Name="fzktjt.ttf" />
             <TTF Name="sc_ccbackbeatregular.ttf" />
@@ -122,6 +124,7 @@
             <Image Name="haoyoujqun.png" />
             <Image Name="pengyouquan.png" />
             <Image Name="title.png" />
+            <Image Name="title_share_wetchat.png" />
             <Image Name="wx.png" />
           </Folder>
           <Folder Name="wanfa">

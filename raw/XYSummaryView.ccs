@@ -88,6 +88,7 @@
           </Folder>
           <Folder Name="font">
             <Image Name="daojishi.png" />
+            <TTF Name="Droid Sans Fallback.ttf" />
             <TTF Name="fangzheng.ttf" />
             <Image Name="huxishu.png" />
             <Image Name="placeholder.png" />
@@ -157,6 +158,8 @@
             <Image Name="tx.png" />
           </Folder>
           <Folder Name="record">
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
             <Image Name="ID_23_112.png" />
             <Image Name="ID_23_124.png" />
             <Image Name="ID_23_166.png" />
@@ -166,6 +169,13 @@
             <Image Name="ID_23_227.png" />
             <Image Name="ID_23_235.png" />
             <Image Name="ID_23_6.png" />
+            <Image Name="loser.png" />
+            <Image Name="player_tx_k.png" />
+            <Image Name="record_bg.jpg" />
+            <Image Name="res_qzcs_2.png" />
+            <Image Name="res_tzcs.png" />
+            <Image Name="res_zzcs.png" />
+            <Image Name="title.png" />
           </Folder>
           <Folder Name="roomoption">
             <Image Name="bg2.png" />
@@ -335,6 +345,7 @@
             <Image Name="bg.png" />
             <Image Name="bg1.png" />
             <Image Name="bg4.png" />
+            <Image Name="home_bg1.jpg" />
             <Image Name="ID_23_104.png" />
             <Image Name="ID_23_235.png" />
             <Image Name="ID_23_258.png" />

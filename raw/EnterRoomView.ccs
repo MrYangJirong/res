@@ -29,8 +29,37 @@
             <Image Name="enter.png" />
             <Image Name="enterNumber.png" />
             <Image Name="fangjianhao.png" />
+            <Image Name="gy_guanbianniu.png" />
             <Image Name="hint.png" />
             <Image Name="join.png" />
+            <Image Name="join_btn_0.png" />
+            <Image Name="join_btn_0_pressed.png" />
+            <Image Name="join_btn_01.png" />
+            <Image Name="join_btn_02.png" />
+            <Image Name="join_btn_03.png" />
+            <Image Name="join_btn_04.png" />
+            <Image Name="join_btn_05.png" />
+            <Image Name="join_btn_06.png" />
+            <Image Name="join_btn_07.png" />
+            <Image Name="join_btn_08.png" />
+            <Image Name="join_btn_09.png" />
+            <Image Name="join_btn_1_pressed.png" />
+            <Image Name="join_btn_2_pressed.png" />
+            <Image Name="join_btn_3_pressed.png" />
+            <Image Name="join_btn_4_pressed.png" />
+            <Image Name="join_btn_5_pressed.png" />
+            <Image Name="join_btn_6_pressed.png" />
+            <Image Name="join_btn_7_pressed.png" />
+            <Image Name="join_btn_8_pressed.png" />
+            <Image Name="join_btn_9_pressed.png" />
+            <Image Name="join_btn_delete.png" />
+            <Image Name="join_btn_delete_pressed.png" />
+            <Image Name="join_btn_empty.png" />
+            <Image Name="join_btn_empty_pressed.png" />
+            <Image Name="join_room_bg.png" />
+            <Image Name="join_title.png" />
+            <Image Name="join_world_input nub.png" />
+            <Image Name="join_world_join.png" />
             <Image Name="qingchu.png" />
             <Image Name="reenter.png" />
             <Image Name="shu.png" />
@@ -62,6 +91,8 @@
             <Image Name="xingyundu2.png" />
           </Folder>
           <Folder Name="font">
+            <TTF Name="Arial.ttf" />
+            <TTF Name="Droid Sans Fallback.ttf" />
             <TTF Name="fangzheng.ttf" />
             <TTF Name="fangzhengzy.ttf" />
           </Folder>
