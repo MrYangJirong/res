@@ -1,0 +1,118 @@
+<Solution>
+  <PropertyGroup Name="LobbyView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="enterroom">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="board.png" />
+            <Image Name="fangjianhao.png" />
+            <Image Name="qingchu.png" />
+            <Image Name="shu.png" />
+            <Image Name="tiao.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="fangzhengzy.ttf" />
+            <TTF Name="fzktjt.ttf" />
+            <TTF Name="sc_ccbackbeatregular.ttf" />
+          </Folder>
+          <Folder Name="lobby">
+            <Image Name="1.png" />
+            <Image Name="18.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="bg1.png" />
+            <Image Name="BG2.png" />
+            <Image Name="bg3.png" />
+            <Image Name="btn_roomInvite.png" />
+            <Image Name="btn_roomInvite1.png" />
+            <Image Name="creat1.png" />
+            <Image Name="createRoom.png" />
+            <Image Name="dia1.png" />
+            <Image Name="dikuang.png" />
+            <Image Name="dt.png" />
+            <Image Name="exit.png" />
+            <Image Name="exit1.png" />
+            <Image Name="fangjianliebiao.png" />
+            <Image Name="fenxiang.png" />
+            <Image Name="frame.png" />
+            <Image Name="groupBtn.png" />
+            <Image Name="help.png" />
+            <Image Name="id.png" />
+            <Image Name="ID.png" />
+            <Image Name="ID_24_12.png" />
+            <Image Name="ID_24_223.png" />
+            <Image Name="ID_24_256.png" />
+            <Image Name="ID_24_80.png" />
+            <Image Name="ID1.png" />
+            <Image Name="invite.png" />
+            <Image Name="invite1.png" />
+            <Image Name="join1.png" />
+            <Image Name="joinRoom.png" />
+            <Image Name="k.png" />
+            <Image Name="kk.png" />
+            <Image Name="laba.png" />
+            <Image Name="laba1.png" />
+            <Image Name="liebiaokuang.png" />
+            <Image Name="liebiaokuang1.png" />
+            <Image Name="login.png" />
+            <Image Name="logo3.png" />
+            <Image Name="menu.png" />
+            <Image Name="menu1.png" />
+            <Image Name="menuBg2.png" />
+            <Image Name="message.png" />
+            <Image Name="message2.png" />
+            <Image Name="noroom.png" />
+            <Image Name="noRoomIcon.png" />
+            <Image Name="plus.png" />
+            <Image Name="plus1.png" />
+            <Image Name="record.png" />
+            <Image Name="record2.png" />
+            <Image Name="rule.png" />
+            <Image Name="rule1.png" />
+            <Image Name="service.png" />
+            <Image Name="service1.png" />
+            <Image Name="set.png" />
+            <Image Name="set1.png" />
+            <Image Name="sex1.png" />
+            <Image Name="sex2.png" />
+            <Image Name="share.png" />
+            <Image Name="share2.png" />
+            <Image Name="tip_bg.png" />
+            <Image Name="title.png" />
+            <Image Name="touxiangkuang.png" />
+            <Image Name="z.png" />
+          </Folder>
+          <Folder Name="login">
+            <Image Name="bg.png" />
+            <Image Name="logoniu.png" />
+          </Folder>
+          <Folder Name="nysdesk">
+            <Image Name="bgcs.png" />
+          </Folder>
+          <Folder Name="public">
+            <Image Name="close.png" />
+            <Image Name="tx.png" />
+          </Folder>
+          <Folder Name="xydesk">
+            <Image Name="back.png" />
+          </Folder>
+          <Project Name="LobbyView.csd" Type="Node" />
+          <Project Name="NotifyView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

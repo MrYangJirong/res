@@ -1,0 +1,46 @@
+<Solution>
+  <PropertyGroup Name="MsgBoxView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="fzktjt.ttf" />
+          </Folder>
+          <Folder Name="message">
+            <Image Name="panel-x.png" />
+          </Folder>
+          <Folder Name="msgbox">
+            <Image Name="cancel.png" />
+            <Image Name="cancel1.png" />
+            <Image Name="cancel2.png" />
+            <Image Name="image_title.png" />
+            <Image Name="message.png" />
+            <Image Name="set.png" />
+            <Image Name="sure.png" />
+            <Image Name="sureNor.png" />
+            <Image Name="surePre.png" />
+            <Image Name="title.png" />
+          </Folder>
+          <Folder Name="public">
+            <Folder Name="button">
+              <Image Name="qd.png" />
+              <Image Name="qd2.png" />
+              <Image Name="sure.png" />
+            </Folder>
+            <Image Name="1.png" />
+            <Image Name="cancel1.png" />
+            <Image Name="cancel2.png" />
+            <Image Name="prompt.png" />
+          </Folder>
+          <Folder Name="setting">
+            <Image Name="sureNor.png" />
+            <Image Name="surePre.png" />
+          </Folder>
+          <Project Name="MsgBoxView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

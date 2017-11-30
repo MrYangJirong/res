@@ -1,0 +1,87 @@
+<Solution>
+  <PropertyGroup Name="LoginView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="fangzhengzy.ttf" />
+          </Folder>
+          <Folder Name="lobby">
+            <Folder Name="btns" />
+            <Image Name="16.png" />
+            <Image Name="17.png" />
+            <Image Name="18.png" />
+            <Image Name="21111.png" />
+            <Image Name="22.png" />
+            <Image Name="24.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="add.png" />
+            <Image Name="back.png" />
+            <Image Name="bar1.png" />
+            <Image Name="bar2.png" />
+            <Image Name="bg1.png" />
+            <Image Name="bg2.png" />
+            <Image Name="board.png" />
+            <Image Name="cir.png" />
+            <Image Name="circular.png" />
+            <Image Name="cloth.png" />
+            <Image Name="coinroom.png" />
+            <Image Name="enter.png" />
+            <Image Name="establish.png" />
+            <Image Name="exchange.png" />
+            <Image Name="exchange2.png" />
+            <Image Name="fuli.png" />
+            <Image Name="guanwang.png" />
+            <Image Name="hallBg.png" />
+            <Image Name="Head portrait1.png" />
+            <Image Name="Head portrait2.png" />
+            <Image Name="horn.png" />
+            <Image Name="jiaqun.png" />
+            <Image Name="line1.png" />
+            <Image Name="logo-.png" />
+            <Image Name="massage.png" />
+            <Image Name="massage2.png" />
+            <Image Name="my room.png" />
+            <Image Name="my room2.png" />
+            <Image Name="setting.png" />
+            <Image Name="setting2.png" />
+            <Image Name="share.png" />
+            <Image Name="share2.png" />
+            <Image Name="shine.png" />
+            <Image Name="shuoming.png" />
+            <Image Name="sign out.png" />
+            <Image Name="wanfa.png" />
+            <Image Name="xiaoxidian.png" />
+            <Image Name="zhanji.png" />
+          </Folder>
+          <Folder Name="login">
+            <Image Name="2.png" />
+            <Image Name="5.png" />
+            <Image Name="bg.png" />
+            <Image Name="bg2.jpg" />
+            <Image Name="ID_16.png" />
+            <Image Name="ID_17.png" />
+            <Image Name="ID_24_180.png" />
+            <Image Name="ID_24_199.png" />
+            <Image Name="logo.png" />
+            <Image Name="logo3.png" />
+            <Image Name="logoniu.png" />
+            <Image Name="ok.png" />
+            <Image Name="okbar.png" />
+            <Image Name="start.png" />
+          </Folder>
+          <Folder Name="nysdesk">
+            <Image Name="bgcs.png" />
+          </Folder>
+          <Project Name="LoginView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

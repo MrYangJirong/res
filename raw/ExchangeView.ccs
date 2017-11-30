@@ -1,0 +1,84 @@
+<Solution>
+  <PropertyGroup Name="ExchangeView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="enterroom">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="board.png" />
+            <Image Name="button.png" />
+            <Image Name="close.png" />
+            <Image Name="fangjianhao.png" />
+            <Image Name="fanhui.png" />
+            <Image Name="qingchu.png" />
+            <Image Name="shu.png" />
+            <Image Name="tiao.png" />
+          </Folder>
+          <Folder Name="exchange">
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="sc_ccbackbeatregular.ttf" />
+          </Folder>
+          <Folder Name="lobby">
+            <Image Name="add.png" />
+            <Image Name="back.png" />
+            <Image Name="bar1.png" />
+            <Image Name="bar2.png" />
+            <Image Name="bg1.png" />
+            <Image Name="board.png" />
+            <Image Name="cir.png" />
+            <Image Name="circular.png" />
+            <Image Name="cloth.png" />
+            <Image Name="enter.png" />
+            <Image Name="establish.png" />
+            <Image Name="exchange.png" />
+            <Image Name="exchange2.png" />
+            <Image Name="fuli.png" />
+            <Image Name="guanwang.png" />
+            <Image Name="Head portrait1.png" />
+            <Image Name="Head portrait2.png" />
+            <Image Name="horn.png" />
+            <Image Name="jiaqun.png" />
+            <Image Name="line1.png" />
+            <Image Name="logo-.png" />
+            <Image Name="massage.png" />
+            <Image Name="massage2.png" />
+            <Image Name="my room.png" />
+            <Image Name="my room2.png" />
+            <Image Name="setting.png" />
+            <Image Name="setting2.png" />
+            <Image Name="share.png" />
+            <Image Name="share2.png" />
+            <Image Name="shine.png" />
+            <Image Name="shuoming.png" />
+            <Image Name="sign out.png" />
+            <Image Name="top .png" />
+            <Image Name="wanfa.png" />
+          </Folder>
+          <Folder Name="login">
+            <Image Name="bg.png" />
+          </Folder>
+          <Project Name="ExchangeView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

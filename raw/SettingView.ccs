@@ -1,0 +1,141 @@
+<Solution>
+  <PropertyGroup Name="SettingView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="createroom">
+            <Image Name="back.png" />
+            <Image Name="bar3.png" />
+            <Image Name="bar4.png" />
+            <Image Name="bar-c.png" />
+            <Image Name="bg.png" />
+            <Image Name="board2.png" />
+            <Image Name="choosed.png" />
+            <Image Name="danxuandi.png" />
+            <Image Name="danxuanxuanzhong.png" />
+            <Image Name="establish2.png" />
+            <Image Name="line2.png" />
+            <Image Name="set room.png" />
+            <Image Name="yes.png" />
+          </Folder>
+          <Folder Name="enterroom">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="board.png" />
+            <Image Name="button.png" />
+            <Image Name="close.png" />
+            <Image Name="fangjianhao.png" />
+            <Image Name="fanhui.png" />
+            <Image Name="qingchu.png" />
+            <Image Name="shu.png" />
+            <Image Name="tiao.png" />
+          </Folder>
+          <Folder Name="exchange">
+            <Image Name="add.png" />
+            <Image Name="board1-1.png" />
+            <Image Name="board1-2.png" />
+            <Image Name="board2.png" />
+            <Image Name="board3.png" />
+            <Image Name="diamond.png" />
+            <Image Name="duihuan.png" />
+            <Image Name="duihuan1.png" />
+            <Image Name="duihuan2.png" />
+            <Image Name="jiantou.png" />
+            <Image Name="kuang.png" />
+            <Image Name="large board.png" />
+            <Image Name="line.png" />
+            <Image Name="lingqu.png" />
+            <Image Name="luck.png" />
+            <Image Name="reduce.png" />
+            <Image Name="reduce2.png" />
+            <Image Name="small board.png" />
+            <Image Name="tiao.png" />
+            <Image Name="xingyundu.png" />
+            <Image Name="xingyundu2.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="fzktjt.ttf" />
+            <TTF Name="sc_ccbackbeatregular.ttf" />
+          </Folder>
+          <Folder Name="lobby">
+            <Image Name="add.png" />
+            <Image Name="back.png" />
+            <Image Name="bar1.png" />
+            <Image Name="bar2.png" />
+            <Image Name="cir.png" />
+            <Image Name="circular.png" />
+            <Image Name="cloth.png" />
+            <Image Name="enter.png" />
+            <Image Name="establish.png" />
+            <Image Name="Head portrait1.png" />
+            <Image Name="horn.png" />
+            <Image Name="line1.png" />
+            <Image Name="qizi.png" />
+            <Image Name="setting.png" />
+            <Image Name="share.png" />
+            <Image Name="shine.png" />
+            <Image Name="wanfa.png" />
+          </Folder>
+          <Folder Name="login">
+            <Image Name="bg.png" />
+          </Folder>
+          <Folder Name="public">
+            <Folder Name="button">
+              <Image Name="button_dark.png" />
+              <Image Name="qd.png" />
+              <Image Name="qd2.png" />
+              <Image Name="sure.png" />
+            </Folder>
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
+            <Image Name="shurukuang.png" />
+          </Folder>
+          <Folder Name="setting">
+            <Image Name="bar.png" />
+            <Image Name="bg.png" />
+            <Image Name="ChangeAccountNor.png" />
+            <Image Name="ChangeAccountPre.png" />
+            <Image Name="close.png" />
+            <Image Name="closeSound.png" />
+            <Image Name="exit.png" />
+            <Image Name="frame.png" />
+            <Image Name="gouxuan.png" />
+            <Image Name="music.png" />
+            <Image Name="openSound.png" />
+            <Image Name="qiehuan.png" />
+            <Image Name="qizi.png" />
+            <Image Name="set.png" />
+            <Image Name="sfx.png" />
+            <Image Name="sure.png" />
+            <Image Name="sureNor.png" />
+            <Image Name="surePre.png" />
+            <Image Name="text_title.png" />
+            <Image Name="title.png" />
+            <Image Name="yanse1.png" />
+            <Image Name="yanse2.png" />
+            <Image Name="yanse3.png" />
+            <Image Name="yanse4.png" />
+            <Image Name="zhuomian.png" />
+            <Image Name="shezhi_paibei.png" />
+            <Image Name="yanse5.png" />
+            <Image Name="yanse6.png" />
+            <Image Name="yanse7.png" />
+            <Image Name="yanse8.png" />
+            <Image Name="paibei.png" />
+          </Folder>
+          <Project Name="SettingView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

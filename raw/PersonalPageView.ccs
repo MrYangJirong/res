@@ -1,0 +1,150 @@
+<Solution>
+  <PropertyGroup Name="PersonalPageView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="createroom">
+            <Image Name="4444.png" />
+            <Image Name="55.png" />
+            <Image Name="back.png" />
+            <Image Name="bar3.png" />
+            <Image Name="bar4.png" />
+            <Image Name="bar-c.png" />
+            <Image Name="bg.png" />
+            <Image Name="board2.png" />
+            <Image Name="choosed.png" />
+            <Image Name="danxuandi.png" />
+            <Image Name="danxuanxuanzhong.png" />
+            <Image Name="establish2.png" />
+            <Image Name="line2.png" />
+            <Image Name="set room.png" />
+            <Image Name="yes.png" />
+          </Folder>
+          <Folder Name="enterroom">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="board.png" />
+            <Image Name="button.png" />
+            <Image Name="close.png" />
+            <Image Name="fangjianhao.png" />
+            <Image Name="fanhui.png" />
+            <Image Name="mask.png" />
+            <Image Name="qingchu.png" />
+            <Image Name="shu.png" />
+            <Image Name="tiao.png" />
+          </Folder>
+          <Folder Name="exchange">
+            <Image Name="add.png" />
+            <Image Name="board1-1.png" />
+            <Image Name="board1-2.png" />
+            <Image Name="board2.png" />
+            <Image Name="board3.png" />
+            <Image Name="diamond.png" />
+            <Image Name="duihuan.png" />
+            <Image Name="duihuan1.png" />
+            <Image Name="duihuan2.png" />
+            <Image Name="jiantou.png" />
+            <Image Name="kuang.png" />
+            <Image Name="large board.png" />
+            <Image Name="line.png" />
+            <Image Name="lingqu.png" />
+            <Image Name="luck.png" />
+            <Image Name="reduce.png" />
+            <Image Name="reduce2.png" />
+            <Image Name="small board.png" />
+            <Image Name="tiao.png" />
+            <Image Name="xingyundu.png" />
+            <Image Name="xingyundu2.png" />
+          </Folder>
+          <Folder Name="feedback">
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
+            <Image Name="fb.png" />
+            <Image Name="send.png" />
+            <Image Name="text.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="fzktjt.ttf" />
+            <TTF Name="sc_ccbackbeatregular.ttf" />
+          </Folder>
+          <Folder Name="lobby">
+            <Image Name="back.png" />
+            <Image Name="bar1.png" />
+            <Image Name="bar2.png" />
+            <Image Name="cir.png" />
+            <Image Name="circular.png" />
+            <Image Name="cloth.png" />
+            <Image Name="enter.png" />
+            <Image Name="establish.png" />
+            <Image Name="Head portrait1.png" />
+            <Image Name="Head portrait2.png" />
+            <Image Name="horn.png" />
+            <Image Name="line1.png" />
+            <Image Name="massage.png" />
+            <Image Name="shine.png" />
+          </Folder>
+          <Folder Name="login">
+            <Image Name="bg.png" />
+          </Folder>
+          <Folder Name="personalpage">
+            <Image Name="dw.png" />
+            <Image Name="frame.png" />
+            <Image Name="id.png" />
+            <Image Name="ip.png" />
+            <Image Name="ju.png" />
+            <Image Name="nan.png" />
+            <Image Name="nv.png" />
+            <Image Name="sj.png" />
+            <Image Name="xing.png" />
+            <Image Name="kuang.png" />
+            <Image Name="kuang1.png" />
+            <Image Name="ID_24_127.png" />
+          </Folder>
+          <Folder Name="public">
+            <Folder Name="button">
+              <Image Name="button_dark.png" />
+              <Image Name="qd.png" />
+              <Image Name="qd2.png" />
+              <Image Name="sure.png" />
+            </Folder>
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
+            <Image Name="dialog.png" />
+            <Image Name="nclose.png" />
+            <Image Name="shurukuang.png" />
+            <Image Name="tx.png" />
+          </Folder>
+          <Folder Name="share">
+            <Image Name="bg.png" />
+            <Image Name="bg1.png" />
+            <Image Name="close.png" />
+            <Image Name="haoyoujqun.png" />
+            <Image Name="pengyouquan.png" />
+            <Image Name="title.png" />
+          </Folder>
+          <Folder Name="wanfa">
+            <Image Name="title.png" />
+          </Folder>
+          <Folder Name="xydesk">
+            <Folder Name="kuso">
+              <Folder Name="icon">
+                <Image Name="1.png" />
+              </Folder>
+            </Folder>
+          </Folder>
+          <Project Name="PersonalPageView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

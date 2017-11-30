@@ -1,0 +1,12 @@
+# cocos studio project
+
+edit_res/
+hd/
+*Dir/
+
+*.udf
+
+# system
+*.db
+*.DS_Store
+res/

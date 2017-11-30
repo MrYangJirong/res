@@ -1,0 +1,114 @@
+<Solution>
+  <PropertyGroup Name="CreateRoomView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="createroom">
+            <Image Name="1.png" />
+            <Image Name="11.png" />
+            <Image Name="2.png" />
+            <Image Name="22.png" />
+            <Image Name="active.png" />
+            <Image Name="active1.png" />
+            <Image Name="advanced.png" />
+            <Image Name="aup.png" />
+            <Image Name="aup1.png" />
+            <Image Name="banker.png" />
+            <Image Name="base.png" />
+            <Image Name="bg.png" />
+            <Image Name="bg1.png" />
+            <Image Name="bg2.png" />
+            <Image Name="cbg.png" />
+            <Image Name="cbg2.png" />
+            <Image Name="cbg3.png" />
+            <Image Name="close.png" />
+            <Image Name="close1.png" />
+            <Image Name="create.png" />
+            <Image Name="createPre.png" />
+            <Image Name="diamond.png" />
+            <Image Name="gz_active.png" />
+            <Image Name="gz_invalid.png" />
+            <Image Name="invalid.png" />
+            <Image Name="line.png" />
+            <Image Name="lz_active.png" />
+            <Image Name="lz_lvalid.png" />
+            <Image Name="pt.png" />
+            <Image Name="qz_active.png" />
+            <Image Name="qz_invalid.png" />
+            <Image Name="roomPrice.png" />
+            <Image Name="round.png" />
+            <Image Name="rule.png" />
+            <Image Name="select1.png" />
+            <Image Name="select2.png" />
+            <Image Name="sorce.png" />
+            <Image Name="special.png" />
+            <Image Name="zdqiangzhuang.png" />
+            <Image Name="zdtuizhu.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="fzktjt.ttf" />
+          </Folder>
+          <Folder Name="lobby">
+            <Image Name="add.png" />
+            <Image Name="back.png" />
+            <Image Name="bar1.png" />
+            <Image Name="bar2.png" />
+            <Image Name="bg1.png" />
+            <Image Name="board.png" />
+            <Image Name="cir.png" />
+            <Image Name="circular.png" />
+            <Image Name="cloth.png" />
+            <Image Name="enter.png" />
+            <Image Name="establish.png" />
+            <Image Name="exchange.png" />
+            <Image Name="exchange2.png" />
+            <Image Name="fuli.png" />
+            <Image Name="guanwang.png" />
+            <Image Name="Head portrait1.png" />
+            <Image Name="Head portrait2.png" />
+            <Image Name="horn.png" />
+            <Image Name="jiaqun.png" />
+            <Image Name="line1.png" />
+            <Image Name="logo-.png" />
+            <Image Name="massage.png" />
+            <Image Name="massage2.png" />
+            <Image Name="my room.png" />
+            <Image Name="my room2.png" />
+            <Image Name="setting.png" />
+            <Image Name="setting2.png" />
+            <Image Name="share.png" />
+            <Image Name="share2.png" />
+            <Image Name="shine.png" />
+            <Image Name="shuoming.png" />
+            <Image Name="sign out.png" />
+            <Image Name="top .png" />
+            <Image Name="wanfa.png" />
+          </Folder>
+          <Folder Name="public">
+            <Folder Name="button">
+              <Image Name="button_dark.png" />
+              <Image Name="qd.png" />
+              <Image Name="qd2.png" />
+              <Image Name="sure.png" />
+            </Folder>
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
+            <Image Name="shurukuang.png" />
+          </Folder>
+          <Folder Name="wanfa">
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="board1-1.png" />
+            <Image Name="board2.png" />
+            <Image Name="board3.png" />
+          </Folder>
+          <Project Name="CreateRoomView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

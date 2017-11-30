@@ -1,0 +1,192 @@
+<Solution>
+  <PropertyGroup Name="RecordView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="createroom">
+            <Image Name="back.png" />
+            <Image Name="bar3.png" />
+            <Image Name="bar4.png" />
+            <Image Name="bar-c.png" />
+            <Image Name="beishu.png" />
+            <Image Name="bg.png" />
+            <Image Name="board2.png" />
+            <Image Name="cahngsha1.png" />
+            <Image Name="changsha2.png" />
+            <Image Name="choosed.png" />
+            <Image Name="danxuandi.png" />
+            <Image Name="danxuanxuanzhong.png" />
+            <Image Name="establish2.png" />
+            <Image Name="fangjian.png" />
+            <Image Name="jushu.png" />
+            <Image Name="kaiwang1.png" />
+            <Image Name="kaiwang2.png" />
+            <Image Name="line2.png" />
+            <Image Name="set room.png" />
+            <Image Name="wanfa.png" />
+            <Image Name="yes.png" />
+            <Image Name="zhaniao.png" />
+            <Image Name="zhuanzhuan1.png" />
+            <Image Name="zhuanzhuan2.png" />
+          </Folder>
+          <Folder Name="enterroom">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="board.png" />
+            <Image Name="button.png" />
+            <Image Name="close.png" />
+            <Image Name="fangjianhao.png" />
+            <Image Name="fanhui.png" />
+            <Image Name="qingchu.png" />
+            <Image Name="shu.png" />
+            <Image Name="tiao.png" />
+          </Folder>
+          <Folder Name="font">
+            <TTF Name="fangzheng.ttf" />
+            <TTF Name="fangzhengzy.ttf" />
+            <TTF Name="fzktjt.ttf" />
+            <TTF Name="msyh.ttf" />
+            <TTF Name="msyhbd.ttf" />
+            <TTF Name="sc_ccbackbeatregular.ttf" />
+            <TTF Name="simhei.ttf" />
+          </Folder>
+          <Folder Name="lobby">
+            <Image Name="add.png" />
+            <Image Name="back.png" />
+            <Image Name="bar1.png" />
+            <Image Name="bar2.png" />
+            <Image Name="bg1.png" />
+            <Image Name="board.png" />
+            <Image Name="cir.png" />
+            <Image Name="circular.png" />
+            <Image Name="cloth.png" />
+            <Image Name="enter.png" />
+            <Image Name="establish.png" />
+            <Image Name="exchange.png" />
+            <Image Name="exchange2.png" />
+            <Image Name="fuli.png" />
+            <Image Name="guanwang.png" />
+            <Image Name="Head portrait1.png" />
+            <Image Name="Head portrait2.png" />
+            <Image Name="horn.png" />
+            <Image Name="jiaqun.png" />
+            <Image Name="line1.png" />
+            <Image Name="logo-.png" />
+            <Image Name="massage.png" />
+            <Image Name="massage2.png" />
+            <Image Name="my room.png" />
+            <Image Name="my room2.png" />
+            <Image Name="setting.png" />
+            <Image Name="setting2.png" />
+            <Image Name="share.png" />
+            <Image Name="share2.png" />
+            <Image Name="shine.png" />
+            <Image Name="shuoming.png" />
+            <Image Name="sign out.png" />
+            <Image Name="top .png" />
+            <Image Name="wanfa.png" />
+          </Folder>
+          <Folder Name="login">
+            <Image Name="bg.png" />
+          </Folder>
+          <Folder Name="myroom">
+            <Image Name="title.png" />
+          </Folder>
+          <Folder Name="nysdesk">
+            <Image Name="close.png" />
+          </Folder>
+          <Folder Name="public">
+            <Folder Name="button">
+              <Image Name="button_dark.png" />
+              <Image Name="qd.png" />
+              <Image Name="qd2.png" />
+              <Image Name="sure.png" />
+            </Folder>
+            <Image Name="bg.png" />
+            <Image Name="close.png" />
+            <Image Name="nclose.png" />
+            <Image Name="shurukuang.png" />
+            <Image Name="tx.png" />
+          </Folder>
+          <Folder Name="record">
+            <Image Name="1.png" />
+            <Image Name="7.png" />
+            <Image Name="bg.png" />
+            <Image Name="bg1.png" />
+            <Image Name="bg10.png" />
+            <Image Name="bg11.png" />
+            <Image Name="bg12.png" />
+            <Image Name="bg2.png" />
+            <Image Name="bg3.png" />
+            <Image Name="bg4.png" />
+            <Image Name="bg5.png" />
+            <Image Name="close.png" />
+            <Image Name="ID_23_104.png" />
+            <Image Name="ID_23_112.png" />
+            <Image Name="ID_23_124.png" />
+            <Image Name="ID_23_148.png" />
+            <Image Name="ID_23_166.png" />
+            <Image Name="ID_23_19.png" />
+            <Image Name="ID_23_226.png" />
+            <Image Name="ID_23_227.png" />
+            <Image Name="ID_23_235.png" />
+            <Image Name="ID_23_258.png" />
+            <Image Name="ID_23_6.png" />
+            <Image Name="ID_23_69.png" />
+            <Image Name="ID_24_101.png" />
+            <Image Name="ID_24_355.png" />
+            <Image Name="info.png" />
+            <Image Name="loser.png" />
+            <Image Name="more_Down.png" />
+            <Image Name="more_Up.png" />
+            <Image Name="share.png" />
+            <Image Name="text.png" />
+            <Image Name="text1.png" />
+            <Image Name="title.png" />
+            <Image Name="win.png" />
+            <Image Name="winner.png" />
+          </Folder>
+          <Folder Name="roundsummary">
+            <Image Name="info.png" />
+          </Folder>
+          <Folder Name="wanfa" />
+          <Folder Name="xydesk">
+            <Folder Name="result">
+              <Image Name="1.png" />
+            </Folder>
+            <Image Name="18.png" />
+            <Image Name="3x.png" />
+            <Image Name="bg1.png" />
+            <Image Name="bg2.png" />
+            <Image Name="bg3.png" />
+            <Image Name="i1.png" />
+          </Folder>
+          <Folder Name="xysummary">
+            <Image Name="1a.png" />
+            <Image Name="2.png" />
+            <Image Name="2a.png" />
+            <Image Name="2x.png" />
+            <Image Name="9.png" />
+            <Image Name="beijing.png" />
+            <Image Name="bf.png" />
+            <Image Name="bg2.png" />
+            <Image Name="row.png" />
+            <Image Name="th1.png" />
+            <Image Name="th2.png" />
+            <Image Name="tips.png" />
+          </Folder>
+          <Project Name="RecordView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

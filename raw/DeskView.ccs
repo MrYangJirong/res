@@ -1,0 +1,222 @@
+<Solution>
+  <PropertyGroup Name="DeskView" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="views">
+          <Folder Name="createroom">
+            <Image Name="back.png" />
+            <Image Name="bar3.png" />
+            <Image Name="bar4.png" />
+            <Image Name="bar-c.png" />
+            <Image Name="bg.png" />
+            <Image Name="board2.png" />
+            <Image Name="choosed.png" />
+            <Image Name="danxuandi.png" />
+            <Image Name="danxuanxuanzhong.png" />
+            <Image Name="establish2.png" />
+            <Image Name="line2.png" />
+            <Image Name="set room.png" />
+            <Image Name="yes.png" />
+          </Folder>
+          <Folder Name="desk">
+            <Image Name="arrow.png" />
+            <Image Name="bg.jpg" />
+            <Image Name="box.png" />
+            <Image Name="chat.png" />
+            <Image Name="chi.png" />
+            <Image Name="clock.png" />
+            <Image Name="dismiss.png" />
+            <Image Name="fapai.png" />
+            <Image Name="finger.png" />
+            <Image Name="guo.png" />
+            <Image Name="head.png" />
+            <Image Name="hu.png" />
+            <Image Name="huadongchupai.png" />
+            <Image Name="infoframe.png" />
+            <Image Name="invoke.png" />
+            <Image Name="logo.png" />
+            <Image Name="peng.png" />
+            <Image Name="place.png" />
+            <Image Name="prepared.png" />
+            <Image Name="setting.png" />
+            <Image Name="voice.png" />
+            <Image Name="zhuang.png" />
+          </Folder>
+          <Folder Name="enterroom">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="board.png" />
+            <Image Name="button.png" />
+            <Image Name="close.png" />
+            <Image Name="fangjianhao.png" />
+            <Image Name="fanhui.png" />
+            <Image Name="qingchu.png" />
+            <Image Name="shu.png" />
+            <Image Name="tiao.png" />
+          </Folder>
+          <Folder Name="exchange">
+            <Image Name="add.png" />
+            <Image Name="board1-1.png" />
+            <Image Name="board1-2.png" />
+            <Image Name="board2.png" />
+            <Image Name="board3.png" />
+            <Image Name="diamond.png" />
+            <Image Name="duihuan.png" />
+            <Image Name="duihuan1.png" />
+            <Image Name="duihuan2.png" />
+            <Image Name="jiantou.png" />
+            <Image Name="kuang.png" />
+            <Image Name="large board.png" />
+            <Image Name="line.png" />
+            <Image Name="lingqu.png" />
+            <Image Name="luck.png" />
+            <Image Name="reduce.png" />
+            <Image Name="reduce2.png" />
+            <Image Name="small board.png" />
+            <Image Name="tiao.png" />
+            <Image Name="xingyundu.png" />
+            <Image Name="xingyundu2.png" />
+          </Folder>
+          <Folder Name="font">
+            <Image Name="daojishi.png" />
+            <TTF Name="fangzheng.ttf" />
+            <Image Name="huxishu.png" />
+            <Image Name="placeholder.png" />
+            <Image Name="placeholder1.png" />
+          </Folder>
+          <Folder Name="lobby">
+            <Folder Name="btns" />
+            <Image Name="16.png" />
+            <Image Name="17.png" />
+            <Image Name="18.png" />
+            <Image Name="21111.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="acbar.png" />
+            <Image Name="ad.png" />
+            <Image Name="add1.png" />
+            <Image Name="back.png" />
+            <Image Name="bar1.png" />
+            <Image Name="bar2.png" />
+            <Image Name="cir.png" />
+            <Image Name="circular.png" />
+            <Image Name="cloth.png" />
+            <Image Name="coinroom.png" />
+            <Image Name="defaultHead.png" />
+            <Image Name="enter.png" />
+            <Image Name="establish.png" />
+            <Image Name="fenxiang.png" />
+            <Image Name="Head portrait1.png" />
+            <Image Name="Head portrait2.png" />
+            <Image Name="horn.png" />
+            <Image Name="kefu.png" />
+            <Image Name="line1.png" />
+            <Image Name="logo.png" />
+            <Image Name="massage.png" />
+            <Image Name="reduce.png" />
+            <Image Name="shine.png" />
+            <Image Name="xiaoxidian.png" />
+            <Image Name="xiazaiyouxi.png" />
+            <Image Name="zengsong.png" />
+          </Folder>
+          <Folder Name="login">
+            <Image Name="bg.png" />
+          </Folder>
+          <Folder Name="prepare">
+            <Folder Name="btns">
+              <Image Name="back.png" />
+              <Image Name="cancel.png" />
+              <Image Name="dismiss.png" />
+              <Image Name="exit.png" />
+              <Image Name="invoke.png" />
+              <Image Name="notprepared.png" />
+              <Image Name="prepare.png" />
+              <Image Name="prepared.png" />
+            </Folder>
+            <Image Name="black-bar.png" />
+            <Image Name="leave.png" />
+            <Image Name="weizhunbei.png" />
+            <Image Name="yaoqing.png" />
+            <Image Name="yizhunbei.png" />
+          </Folder>
+          <Folder Name="roomoption">
+            <Image Name="bg2.png" />
+            <Image Name="black bar.png" />
+            <Image Name="board-f.png" />
+            <Image Name="cheat warn.png" />
+            <Image Name="dissolution.png" />
+            <Image Name="dotted line.png" />
+            <Image Name="effect-f.png" />
+            <Image Name="exit.png" />
+            <Image Name="music-f.png" />
+            <Image Name="panel-f.png" />
+            <Image Name="room setting.png" />
+            <Image Name="see more.png" />
+            <Image Name="shu2.png" />
+            <Image Name="temporarily part.png" />
+            <Image Name="top bg2.png" />
+          </Folder>
+          <Folder Name="setting">
+            <Image Name="board.png" />
+            <Image Name="off.png" />
+            <Image Name="on.png" />
+            <Image Name="shezhi.png" />
+            <Image Name="sq.png" />
+          </Folder>
+          <Folder Name="suit">
+            <Image Name="tiao.png" />
+            <Image Name="tong.png" />
+            <Image Name="wan.png" />
+          </Folder>
+          <Folder Name="summary">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="add.png" />
+            <Image Name="angang.png" />
+            <Image Name="black bar-j.png" />
+            <Image Name="bottom-j.png" />
+            <Image Name="dianpao.png" />
+            <Image Name="get bird.png" />
+            <Image Name="hu.png" />
+            <Image Name="jiepao.png" />
+            <Image Name="light-j.png" />
+            <Image Name="line-j.png" />
+            <Image Name="lose bird.png" />
+            <Image Name="lose-j.png" />
+            <Image Name="minggang.png" />
+            <Image Name="one more time.png" />
+            <Image Name="panel-j.png" />
+            <Image Name="share-j.png" />
+            <Image Name="sub.png" />
+            <Image Name="top-j.png" />
+            <Image Name="win-j.png" />
+            <Image Name="zhongniao.png" />
+            <Image Name="zhuang.png" />
+            <Image Name="zimo.png" />
+          </Folder>
+          <Project Name="DeskView.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
